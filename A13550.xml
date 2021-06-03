@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pilgrims profession. Or a sermon preached at the funerall of Mris Mary Gunter by Mr Thomas Taylor. To which (by his consent) also is added, a short relation of the life and death of the said gentle-woman, as a perpetuall monument of her graces and vertues</title>
+            <author>Taylor, Thomas, 1576-1632.</author>
+         </titleStmt>
+         <extent>Approx. 95KB of XML-encoded text transcribed from 111 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A13550</idno><idno type="EEBO-CITATION">99838770</idno>
+  <idno type="VID">3158</idno>
+  <idno type="EEBO-PROQUEST">2240867677</idno>
+  <idno type="STC">STC 23843</idno>
+  <idno type="STC">ESTC S103011</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838770e"/>
+            <note>(EEBO-TCP ; phase 2, no. A13550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3158)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1157:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pilgrims profession. Or a sermon preached at the funerall of Mris Mary Gunter by Mr Thomas Taylor. To which (by his consent) also is added, a short relation of the life and death of the said gentle-woman, as a perpetuall monument of her graces and vertues</title>
+                  <author>Taylor, Thomas, 1576-1632.</author>
+                  <author>Gunter, H.</author>
+               </titleStmt>
+               <extent>[10], 192 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.D[awson] for Io: Bartlet, and are to be sold at his shop in cheap-side, at the gilt cup in the Goldsmiths row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>"Profitable memoriall of the conversion, life and death of Mris. Mary Gunter, set vp as a monument to be looked vpon, both by Protestants and Papists", by H. Gunter, has caption title.</note>
+                  <note>Copy filmed lacks pages 1181-9.</note>
+                  <note>Some print faded, some leaves tightly bound, and some pages marked.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Funeral sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:3158:1"/>
+            <pb facs="tcp:3158:1"/>
+            <p> THE PILGRIMS PROFESSION.</p>
+            <p>
+               <hi>OR</hi> A SERMON PREA<g ref="char:EOLhyphen"/>Ched at the Funerall of M<seg rend="sup">ris</seg> MARY GVNTER <hi>by</hi> M<seg rend="sup">r</seg> THOMAS TAYLOR.</p>
+            <p>To which (by his consent) also <hi>is added, A short Relation of</hi> the life and death of the said Gentle-woman, as a <hi>per<g ref="char:EOLhyphen"/>petuall Monument of her</hi> graces and vertues.</p>
+            <q>
+               <p>
+                  <hi>Omnis peregrina regio patria est corum, Et omnis patria corum est peregrina.</hi>
+               </p>
+               <p>
+                  <bibl>Iustin Martir epist. ad Diognetum.</bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>I. D.</hi> for <hi>Io: Bartlet,</hi> and are to be sold at his Shop in <hi>Cheap-side,</hi> at the gilt Cup in the Goldsmiths Row.</p>
+            <p>1622.</p>
+            <pb facs="tcp:3158:2"/>
+            <pb facs="tcp:3158:2"/>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:3158:3"/>
+            <head>ERRATA.</head>
+            <p>PAge 18. Marg: read <hi>nulla.</hi> p. 57. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Pag. 125. line vlt. r. <hi>But descended of.</hi> p. 140. l. 15. r. <hi>waues.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:3158:3"/>
+            <head>TO THE RIGHT HONOVRABLE The Lady LETTICE, <hi>Countesse of</hi> Leicester, All encrease of <hi>Honour and Happines.</hi>
+            </head>
+            <opener>
+               <salute>MADAM;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving im<g ref="char:EOLhyphen"/>portuned and pre<g ref="char:EOLhyphen"/>vailed with that
+<pb facs="tcp:3158:4"/> Reverend Preacher, who performed that last office for your LADISHIPS late Servant, to af<g ref="char:EOLhyphen"/>ford me a perfect Coppie of his Ser<g ref="char:EOLhyphen"/>mon, (which for the fitnes and wor<g ref="char:EOLhyphen"/>thinesse of the mat<g ref="char:EOLhyphen"/>ter, I thought much pittie to be buryed with her) and pur<g ref="char:EOLhyphen"/>posing to adde a short Relation of the happie Life and
+<pb facs="tcp:3158:4"/> Death of my deare Wife, both which I thought were ve<g ref="char:EOLhyphen"/>ry exemplary; I em<g ref="char:EOLhyphen"/>boldned my selfe, to present the same to your HONOVR, not only as a thank<g ref="char:EOLhyphen"/>full testification, of my humble dutie and service, for all those gracious en<g ref="char:EOLhyphen"/>dowments, which I so happily enioy<g ref="char:EOLhyphen"/>ed in her, (of all which, vnder God,
+<pb facs="tcp:3158:5"/> your HONOVR was a chiefe instru<g ref="char:EOLhyphen"/>ment) but also be<g ref="char:EOLhyphen"/>cause I know that your HONOVR, who gladly appre<g ref="char:EOLhyphen"/>hended all the meanes of her com<g ref="char:EOLhyphen"/>fort through her life, would as glad<g ref="char:EOLhyphen"/>ly receiue the true Narration of her as<g ref="char:EOLhyphen"/>sured Comforts and Conquest in her so Christian death and dissolution.</p>
+            <pb facs="tcp:3158:5"/>
+            <p> Neither is the Ser<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on vnfit for your HONOVRS perv<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>all, whom God hath honored with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o many dayes, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eares; and taught <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot to feare eyther <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he end of your Pil<g ref="char:EOLhyphen"/>grimage out of this strange Countrey, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or the neare ap<g ref="char:EOLhyphen"/>proch to your own <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ome.</p>
+            <p>Thus humbly pray<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng your HONORS
+<pb facs="tcp:3158:6"/> acceptance of tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which is most pro<g ref="char:EOLunhyphen"/>perly yours. I pra<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Father of me<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cies, to adde to a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your noble Vertue<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the continuance o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your true prosper<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tie.</p>
+            <closer>
+               <signed>
+                  <hi>Your</hi> HONOVRS <hi>in all humble service H. G.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:3158:6"/>
+            <head>THE PILGRIMES PROFESSION.</head>
+            <epigraph>
+               <bibl>PSAL. 39. 12.</bibl>
+               <q>I am a stranger with thee, and a soiourner as all my Fathers.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS holy Prophet be<g ref="char:EOLhyphen"/>ing by great distresse of mind, and disease of bo<g ref="char:EOLhyphen"/>die brought very low,
+<pb n="2" facs="tcp:3158:7"/> (as appeareth in the whole Psalme) and so low as he was readie to breake patience, and <hi>t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> offend with his tongue▪</hi>
+               <note place="margin">Vers. 3.</note> yet after a doubtfu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> combat, betweene Fait<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Frailtie; his Fait<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> stepps aboue flesh, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> leads him out of him<g ref="char:EOLunhyphen"/>selfe, to <hi>waite</hi> vpon Go<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with holy <hi>silence:</hi> an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <note place="margin">Vers. 7.</note> lifteth him vp vnto Go<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in fervent and earnes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Prayers (which are th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> breath of Faith) bot<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for <hi>pardon of sinne,</hi> th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <note place="margin">Vers. 8.</note> cause, and for releas<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from the affliction an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>plague,</hi> the effect of i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="3" facs="tcp:3158:7"/> And because the sence of misery was deepe; he <note place="margin">Vers. 10.</note> striues with God, with great, vehement, and earnestnesse of spirit, in<g ref="char:EOLhyphen"/>geminating his petitiōs in this 12. verse. Rising vp in his requests by de<g ref="char:EOLhyphen"/>grees, as one that mea<g ref="char:EOLhyphen"/>neth to prevaile with God (as another <hi>Iacob)</hi> and not let him goe till he haue blessed him, and therefore first he de<g ref="char:EOLhyphen"/>sireth the Lord to <hi>heare his prayer.</hi> But because the prayers of the Saints are often faint and fee<g ref="char:EOLhyphen"/>ble, and without any strong motion; he de<g ref="char:EOLhyphen"/>sires
+<pb n="4" facs="tcp:3158:8"/> the Lord to <hi>hearke<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to his cry;</hi> the sence o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his need vrged stron<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> cries, fervency, and im<g ref="char:EOLunhyphen"/>portunitie. And furthe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> because euery strong cry is not heard, vnlesse it proceed from a bro<g ref="char:EOLhyphen"/>ken and contrite spirit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> He prayeth the LOR<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not to keepe <hi>silence<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his teares;</hi> well he kne<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that prayers of faith, wa<g ref="char:EOLhyphen"/>tered with teares o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> godly sorrow, are elo<g ref="char:EOLhyphen"/>quent perswaders, t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> draw a comfortable an<g ref="char:EOLhyphen"/>swere from God; they cannot suffer him to si<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> silent long; who hat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="5" facs="tcp:3158:8"/> prepared both a botle to reserue them in, and an hand kercheife to wipe them away from the eyes of his children. Try it after holy <hi>David</hi> who will, or can; make euery day a spring to sow thy prayers in hea<g ref="char:EOLhyphen"/>ven; and water them sometimes with an A<g ref="char:EOLhyphen"/>pril shower of mournful teares for thy sinne, and misery; and thou ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t prevailed against Gods silence; thou shalt heare a sweet and comforta<g ref="char:EOLhyphen"/>ble answere in due sea<g ref="char:EOLhyphen"/>son.</p>
+            <p>Now the words read
+<pb n="6" facs="tcp:3158:9"/> are a reason of his ear<g ref="char:EOLhyphen"/>nest request, drawn from the acknowledgement of the frailtie, vanitie, and brevitie of his life, laid downe by a compa<g ref="char:EOLhyphen"/>rison taken from stran<g ref="char:EOLhyphen"/>gers, or Pilgrimes, of which number he pro<g ref="char:EOLhyphen"/>fesseth himselfe to be; and may well be called, <hi>The Pilgrimes profession.</hi>
+            </p>
+            <p>In tying which words with the former, it may be asked, first, what force can there be in this rea<g ref="char:EOLhyphen"/>son, to moue or encline God to mercy, because he was a <hi>stranger with him;</hi> it might rather im<g ref="char:EOLhyphen"/>ply,
+<pb n="7" facs="tcp:3158:9"/> that God should the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore estrange himselfe from him, and stand fur<g ref="char:EOLhyphen"/>ther from his helpe.</p>
+            <p>I answere. 1. The <note place="margin">
+                  <hi>Quis dubi<g ref="char:EOLhyphen"/>tat quod hic psaltes posuit</hi> gnimca <hi>tecū idem esse quod</hi> Liph<g ref="char:EOLhyphen"/>neca. <hi>id est, coram te.</hi> Bucer.</note> Hebrew phrase, I am a stranger <hi>with thee,</hi> signi<g ref="char:EOLhyphen"/>fieth as much as to say, I am a stranger <hi>before thee,</hi> or <hi>in thy sight.</hi> And not that he was a stran<g ref="char:EOLhyphen"/>ger in affection, or con<g ref="char:EOLhyphen"/>versation from God, as the wicked who are said to be <hi>strange children,</hi> and <note place="margin">Psal. 58. 3.</note>
+               <hi>strangers from the wombe.</hi> For how could <hi>David</hi> be such a stranger, who set <hi>t<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Lord ever before</hi>
+               <note place="margin">Psal. 16. 8.</note>
+               <hi>him,</hi> and <hi>at his right hand,</hi>
+               <pb n="8" facs="tcp:3158:10"/> that he might not sinne against him?</p>
+            <p n="2">2. As it is a confessi<g ref="char:EOLhyphen"/>on and testimony of his owne humilitie &amp; sence of his misery, it is a mo<g ref="char:EOLhyphen"/>tiue to mercy; as if he had said, I am a stranger and need helpe, because as a stranger. I lie open to many iniuries and inconveniences: but thou art the God of the abiect; and thy proper<g ref="char:EOLhyphen"/>tie is as to cast downe the proud, so to raise vp such deiected soules as I am, and therefore heare my prayers, cryes, and teares.</p>
+            <p n="3">
+               <pb n="9" facs="tcp:3158:10"/> 3. As it ascribeth vn<g ref="char:EOLhyphen"/>to the Lord the honour of mercy, it is a motiue to mercy; for holy <hi>Da<g ref="char:EOLhyphen"/>vid</hi> puts the LORD in mind of his owne graci<g ref="char:EOLhyphen"/>ous inclination and af<g ref="char:EOLhyphen"/>fection to strangers; for <note place="margin">Exod. 22. 21 Lev. 19. 33. Deut. 10. 19</note> he hath commanded vs to be kinde to strangers; &amp; hath in speciall man<g ref="char:EOLhyphen"/>ner vndertaken the pro<g ref="char:EOLhyphen"/>tection of strangers. <hi>Psal.</hi> 146 9. <hi>The Lord keepeth the strangers:</hi> and therefore his faith bin<g ref="char:EOLhyphen"/>ding God after a sort to his owne law and pro<g ref="char:EOLhyphen"/>mise, assureth himselfe of Gods mercy, because
+<pb n="10" facs="tcp:3158:11"/> he is a stranger.</p>
+            <p n="4">4. As it is an acknow<g ref="char:EOLhyphen"/>ledgement of his owne impotency, and the mi<g ref="char:EOLhyphen"/>sery of his life, it plea<g ref="char:EOLhyphen"/>deth strongly for mercy, as if he had said; Thou knowest Lord, that I am a stranger here, and so long as I am so, I cannot but carry a burden of flesh, and a body of sin, and daily thereby de<g ref="char:EOLhyphen"/>serue thy most heauie displeasure: and there<g ref="char:EOLhyphen"/>fore I beseech thee, be not so extreame against me, as in iustice thou maiest; but considering my frailtie, mingle thy
+<pb n="11" facs="tcp:3158:11"/> corrections with mercy. And whereas I discerne also by my bodily weak<g ref="char:EOLhyphen"/>nesse and infirmity, that I am a stranger here, and of short continuance, I pray thee remoue thy hand, and let not all my life be miserable, but <hi>stay thine anger from me,</hi>
+               <note place="margin">Vers. 13.</note> that <hi>I may recover my strength, before I goe hence and be no more.</hi> And vp<g ref="char:EOLhyphen"/>on the same ground, <hi>Iob</hi> makes the same request, <hi>Let him cease and leaue off</hi>
+               <note place="margin">Iob 10. 21.</note>
+               <hi>from me, that I may take a little comfort, before I goe and shall not returne, &amp;c.</hi>
+            </p>
+            <p>Secondly, it may be
+<pb n="12" facs="tcp:3158:12"/> asked, How can <hi>David</hi> vse this as a reason for his recovery, which he vsed before, <hi>vers.</hi> 4. for the hastening of his death; for because his life was short and mise<g ref="char:EOLhyphen"/>rable, therefore he de<g ref="char:EOLhyphen"/>sires he might die in all hast.</p>
+            <p>To which I answere. That great difference there is betweene <hi>David</hi> foyled by flesh, and <hi>Da<g ref="char:EOLhyphen"/>vid</hi> supported by the spirit; for we haue in him lying vnder the temptation, an instance of our owne strong-har<g ref="char:EOLhyphen"/>ted corruption; which
+<pb n="13" facs="tcp:3158:12"/> out of a good propositi<g ref="char:EOLhyphen"/>on, can draw most dan<g ref="char:EOLhyphen"/>gerous and wicked con<g ref="char:EOLhyphen"/>clusions; for, out of the consideration of the shortnesse of his life, he could draw conclusions of murmuring, impati<g ref="char:EOLhyphen"/>ence, and almost of de<g ref="char:EOLhyphen"/>speration. But now <hi>Da<g ref="char:EOLhyphen"/>uid</hi> is another man, and the spirit of grace hath conquered those as<g ref="char:EOLhyphen"/>saults, and now he can out of the same premis<g ref="char:EOLhyphen"/>ses, draw the cleane con<g ref="char:EOLhyphen"/>trary conclusions, to support his faith, pati<g ref="char:EOLhyphen"/>ence, and dependance vpon God. For such is
+<pb n="14" facs="tcp:3158:13"/> the wisdome of the Spi<g ref="char:EOLhyphen"/>rit, that he can draw ho<g ref="char:EOLhyphen"/>ly, sweet, and comforta<g ref="char:EOLhyphen"/>ble conclusions from those principles and grounds, from which flesh and corruption v<g ref="char:EOLhyphen"/>seth to sucke sin &amp; poy<g ref="char:EOLhyphen"/>son; and teacheth the Saints so to doe.</p>
+            <p>In the Profession it <note place="margin">Meaning.</note> selfe, consider for the meaning foure things;</p>
+            <list>
+               <item>1. What a stranger <note place="margin">1. What is this stran<g ref="char:EOLhyphen"/>ger.</note> is.</item>
+               <item>2. Who is this stran<g ref="char:EOLhyphen"/>ger.</item>
+               <item>3. Where he is a stranger.</item>
+               <item>4. The communitie
+<pb n="15" facs="tcp:3158:13"/> of this condition; <hi>as all my Fathers.</hi>
+               </item>
+            </list>
+            <p n="1">1. A stranger is hee that being absent from his owne Countrey is travelling homewards vnto it. For these two conditions are proper to a stranger. 1. that he is absent from his na<g ref="char:EOLhyphen"/>tiue soyle, absent from his naturall friends, ab<g ref="char:EOLhyphen"/>sent from his Fathers house, and absent from his owne home and in<g ref="char:EOLhyphen"/>heritance; thus was <hi>A<g ref="char:EOLhyphen"/>braham</hi> a stranger in <hi>Ca<g ref="char:EOLhyphen"/>naan.</hi> 2. That he is tra<g ref="char:EOLhyphen"/>velling home as a Pil<g ref="char:EOLhyphen"/>grime to his own coun<g ref="char:EOLhyphen"/>trie;
+<pb n="16" facs="tcp:3158:14"/> Thus was <hi>Iacob</hi> a stranger, whose whole life was a travaile in for<g ref="char:EOLhyphen"/>raine Countries, out of any certaine and setled dwelling, as himselfe professeth, <hi>Gen.</hi> 47. 9. The <hi>whole time of my pil<g ref="char:EOLhyphen"/>grimage</hi> is an hundreth and thirtie yeares.</p>
+            <p n="2">2. Who is this stran<g ref="char:EOLhyphen"/>ger? <hi>David</hi> sayth, <hi>I am</hi> a stranger, which may seeme strange, if we con<g ref="char:EOLhyphen"/>sider that <hi>David</hi> was a King, and that in his owne Country, and that the country of <hi>Iudea;</hi> in comparison of whose inhabitāts all the world
+<pb n="17" facs="tcp:3158:14"/> besides were strangers, as <hi>Math.</hi> 27. 7. For <hi>David</hi> was not now in flight before <hi>Saul,</hi> as when he playd the foole in the <hi>Philistims</hi> Countrie be<g ref="char:EOLhyphen"/>fore <note place="margin">1 Sam. 21. 13.</note>
+               <hi>Achish</hi> to saue his life; nor in likelihood, in chase before <hi>Absolon,</hi> as when being driuen from home, he went vp to the mount of <hi>Oliues</hi> and wept. Neither vn<g ref="char:EOLhyphen"/>dertooke he any meri<g ref="char:EOLhyphen"/>torious journey in a <hi>Pil<g ref="char:EOLhyphen"/>grims</hi> weed. For besides that he was King of <hi>Ie<g ref="char:EOLhyphen"/>rusalem,</hi> and needed not make any tedious Pil<g ref="char:EOLhyphen"/>grimage thither, Popish
+<pb n="18" facs="tcp:3158:15"/> Pilgrims were not borne <note place="margin">
+                  <hi>Peregrinatio ad Imagines milla fuit ante</hi> 600. <hi>annos a Chri<g ref="char:EOLhyphen"/>sto nato.</hi> Perk. Probl.</note> some thousands of yeers after his Age. There was now no Sepulcher of our Lord to visit; nor no Image of our Lady, and yet he professeth him<g ref="char:EOLhyphen"/>selfe a stranger.</p>
+            <p n="3">3. But where was <hi>Da<g ref="char:EOLhyphen"/>vid</hi> a stranger? himselfe sayth, <hi>Before thee,</hi> that is, wheresoeuer he is be<g ref="char:EOLhyphen"/>fore God, there he is a stranger; not in ano<g ref="char:EOLhyphen"/>ther mans kingdome or country, as of <hi>Moabites</hi> or <hi>Philistims:</hi> but in his owne Country, in <hi>Cana<g ref="char:EOLhyphen"/>an</hi> he is a <hi>stranger;</hi> yea, at <hi>Bethlem</hi> in the Cittie of
+<pb n="19" facs="tcp:3158:15"/>
+               <hi>David;</hi> and in <hi>Sion</hi> the Fort of <hi>David</hi> he is a <hi>stranger.</hi> This he ex<g ref="char:EOLhyphen"/>presseth <hi>Psal.</hi> 119. 19. <hi>I am a stranger vpon earth</hi> that is, in euery part of the earth, euen in mine owne house, in mine owne bed, in my owne bodie and bosome I am a stranger <hi>with thee.</hi> Wherein the holy Pro<g ref="char:EOLhyphen"/>phet both acknowled<g ref="char:EOLhyphen"/>geth the Lord the pro<g ref="char:EOLhyphen"/>prietary, of <hi>whom he held</hi>
+               <note place="margin">Lev. 25. 23</note>
+               <hi>his Country</hi> and King<g ref="char:EOLhyphen"/>dome. For it is as if he had said, I am a stranger in thy Country; my Country is thy Coun<g ref="char:EOLhyphen"/>try,
+<pb n="20" facs="tcp:3158:16"/> and thy Country is my Country; and now I doe but soiourne a while <hi>with thee</hi> in thy Country, till I returne home and dwell <hi>with thee</hi> in my Country. As also he infoldeth a mo<g ref="char:EOLhyphen"/>tiue, why the Lord should encline his care to his Prayer, and shew him favour, because he is a stranger in the Lords Country; and therefore committing himselfe to the protection and safe-conduct of the Lord of the Country, he doub<g ref="char:EOLhyphen"/>teth not, but to finde grace in his eyes, and by
+<pb n="21" facs="tcp:3158:16"/> his meanes a comforta<g ref="char:EOLhyphen"/>ble passage, till he come happily to the end of his way. For who should heare the complaints of a soiourner, but he with whom he soiourneth?</p>
+            <p n="4">4. But is it otherwise with <hi>David</hi> now, then with other men? No surely, but he beareth part in the common conditiō of his Fathers. Although he was deare to God, and the King of Gods people; yet he is no better then his Fa<g ref="char:EOLhyphen"/>thers; he is a stranger <hi>as all his Fathers were.</hi> He meaneth not the fathers
+<pb n="24" facs="tcp:3158:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:3158:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:3158:18"/> of his flesh onely, who were all dead, and gone to their iourneyes end, but the Fathers of his faith also; those holy Patriarches, <hi>Abraham, I<g ref="char:EOLhyphen"/>saac, Iacob,</hi> and their po<g ref="char:EOLhyphen"/>steritie, which were the holy seed; who in their times <hi>accounted</hi> them<g ref="char:EOLhyphen"/>selues <note place="margin">Heb. 11. 13. 14.</note>
+               <hi>strangers,</hi> and <hi>de<g ref="char:EOLhyphen"/>clared</hi> themselues so to be; both in that they chused <hi>to dwell in Tents,</hi> and not in houses or Ci<g ref="char:EOLhyphen"/>ties; <note place="margin">Heb. 11. 9.</note> as the posteritie of <hi>Cain</hi> did, for they held themselues strangers on earth, and expecting e<g ref="char:EOLhyphen"/>uery day the word of
+<pb n="23" facs="tcp:3158:18"/> God to call them hither or thither, at his plea<g ref="char:EOLhyphen"/>sure, they would not cumber thēselues with buildings or purchases; but betooke themselues to poore and portable tents, which were soone pitched vp, &amp; as soone taken downe. As also in that they were conten<g ref="char:EOLhyphen"/>ted to wander vp and downe as Pilgrims, rest<g ref="char:EOLhyphen"/>lesly from place to place, insomuch as the iourneyes and travels of <hi>Abraham</hi> recorded in his Story, amounts to 1794. myles; <hi>Iacobs</hi> little lesse, whole posteritie
+<pb n="24" facs="tcp:3158:19"/> was a stranger in <hi>Egyp<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> foure hundred yeares▪ and from thence were taken into the terrible Wildernes; where they wandred fortie yeares and all the rest of them in the wide wildernesse of this world, and vale of Baca, onely passed through as Pilgrims vn<g ref="char:EOLhyphen"/>to the heavenly <hi>Canaan▪</hi> All which our holy Prophet revolving in his minde, subscribeth the same schedule, tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he is a stranger also as al<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they were.</p>
+            <p>Hence wee learne▪ <label type="milestone">
+                  <seg type="milestoneunit">Doctrine. </seg>
+               </label> That all the Saints of
+<pb n="25" facs="tcp:3158:19"/> God, and true beleeuers are strāgers vpon earth: for so was <hi>David,</hi> and all his Fathers of his flesh, and of his faith, as him<g ref="char:EOLhyphen"/>selfe not onely heere in sence of his affliction professeth: but else where stirred vp by the sight and sence of Gods abundant mercie to<g ref="char:EOLhyphen"/>wards him, and in the time of his solemne ioy and festivitie vttereth the same words, 1. Chro 29. 15. <hi>All thinges come of thee, and of thine owne</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>hand we haue given thee; for we are strangers before thee, and soiourners like all</hi>
+               <pb n="26" facs="tcp:3158:20"/>
+               <hi>our Fathers.</hi> 2. Cor. 5. 6. while we are at home in the body, <hi>wee are estran<g ref="char:EOLhyphen"/>ged from the Lord.</hi> And indeede euery Christi<g ref="char:EOLhyphen"/>an is a <hi>Gershom,</hi> that is a stranger and in a strange land: in respect, 1. of place, for they are ab<g ref="char:EOLhyphen"/>sent from heauenly Ca<g ref="char:EOLhyphen"/>naan, their owne home and countrey: heere is not theit fathers house, nor their brethren and sisters, nor their treasure they are cittizens <hi>with</hi>
+               <note place="margin">Ephe. 2. 19.</note>
+               <hi>Saints,</hi> and heaven their home, where our Lord Iesus is preparing Man<g ref="char:EOLhyphen"/>sions for them. Iohn 14
+<pb n="27" facs="tcp:3158:20"/> 2. as for the worlde it is but a way to their coun<g ref="char:EOLhyphen"/>trey, and as a wildernes through which the Isra<g ref="char:EOLhyphen"/>el of God passe towards their Canaan. They are indeed in the world, but not of it: for they are called out of the world, by 1. Christes seperati<g ref="char:EOLhyphen"/>on. Ioh. 15 19. <hi>I haue chosen you out of the world</hi> 2. Christes interdiction, 1. Ioh. 2. 15. <hi>Loue not the world nor the things of the world.</hi> 3 Christes o<g ref="char:EOLhyphen"/>peration, Gal. 6. 14. <hi>The world is crucified to mee,</hi>
+               <note place="margin">Commorandi diuersorium, non h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tan<g ref="char:EOLhyphen"/>di. Cicero de Senect.</note>
+               <hi>&amp; I vnto the world.</hi> The very light of nature saw
+<pb n="28" facs="tcp:3158:21"/> and sayd, that nature hath afforded vs in this world onely an Inn, and not a dwelling: and should not grace much more acquaint vs with Gods decree and ordi<g ref="char:EOLhyphen"/>nance, which is that mā should be a while in the worlde, as in a way to passe him vnto his fina<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> estate else where, or at most but a travailer in an Inn, which he is rea<g ref="char:EOLhyphen"/>die to leaue the next morrow.</p>
+            <p>Secondly, in their owne account and con<g ref="char:EOLhyphen"/>fessiō they are strangers, <hi>Heb.</hi> 11. 13. all these <hi>con<g ref="char:EOLhyphen"/>fessed</hi>
+               <pb n="29" facs="tcp:3158:21"/>
+               <hi>that they were stran<g ref="char:EOLunhyphen"/>gers and pilgrimes vpon earth.</hi> And in the ac<g ref="char:EOLhyphen"/>count of the world also they are strāgers, which vseth them strangely &amp; coursely, as <hi>David</hi> was a stranger to his brethrē Psal. 69. 8. and whereas, were they of the world, it would knowe them, loue them, and hugg them in her lap: they being strangers, it is an other Egypt to Gods first borne, &amp; knoweth them not but to vexe &amp; oppresse them.</p>
+            <p>Thirdly, in respect of the short time of their
+<pb n="30" facs="tcp:3158:22"/> continuance, for as a stranger abides not in a strange place (as the na<g ref="char:EOLhyphen"/>tiues do) but hasteneth through his way, and so with his time cutteth and shortneth his iour<g ref="char:EOLhyphen"/>ney; so the godly haue here <hi>no abiding citie,</hi> nei<g ref="char:EOLhyphen"/>ther is this their resting <note place="margin">Heb. 13. 14.</note> place. For this cause the whole militant Church is called a <hi>Tabernacle:</hi> &amp; <note place="margin">Psal. 15. 1.</note> the Saints call the time of their life for the short<g ref="char:EOLunhyphen"/>nes and discontinuance of it, but a <hi>being in this ta<g ref="char:EOLhyphen"/>bernacle,</hi> because first, as a <note place="margin">2 Pet. 1. 13.</note> Tabernacle is but a so<g ref="char:EOLhyphen"/>iournyng place, set vp
+<pb n="31" facs="tcp:3158:22"/> for a shift, to hide our selues for a small while, as the Souldier hides himselfe in a sconce or tent onely for the time of a siege at the longest: so is it with the Taber<g ref="char:EOLhyphen"/>nacle of the body, set vp for a small time, not so much for it selfe, as for the Inmate, the Soule which is contei<g ref="char:EOLhyphen"/>ned in it. Secondly, as a tabernacle is a moue<g ref="char:EOLhyphen"/>able tent, pitched for a day, ouer-night is set vp and perhaps, the next day the stakes are puld vp, and the cordes are slacked, and the cove<g ref="char:EOLhyphen"/>ring
+<pb n="30" facs="tcp:3158:23"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="31" facs="tcp:3158:23"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:3158:24"/> is folded vp: no o<g ref="char:EOLhyphen"/>therwise is it with the Tabernacle of the bo<g ref="char:EOLhyphen"/>dy, which no man know<g ref="char:EOLunhyphen"/>eth, whether it shal stand vnremoved till the next morrow, no, nor till the next houre.</p>
+            <p>Thirdly, as a Taber<g ref="char:EOLhyphen"/>nacle is only a covering but hath no foundation to setle vpon: so <hi>Iob</hi> spea<g ref="char:EOLunhyphen"/>keth of our bodies, as houses <hi>of clay, whose foun<g ref="char:EOLunhyphen"/>dation</hi>
+               <note place="margin">Iob 4. 19.</note>
+               <hi>is in the dust:</hi> that if God did not fasten the silver cords of them to his appointed time, every blast would over<g ref="char:EOLhyphen"/>throw them every mo<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="33" facs="tcp:3158:24"/>
+            <p> Fourthly, The godly are strangers heere be<g ref="char:EOLhyphen"/>low in respect of their businesse, and employ<g ref="char:EOLhyphen"/>ment; a stranger is vn<g ref="char:EOLhyphen"/>acquainted with the af<g ref="char:EOLhyphen"/>ffaires of the place wher he takes vp his Inne, he medles not with the go<g ref="char:EOLunhyphen"/>vernement, the offices, the passages of causes in the towne where hee lyeth as a stranger; but intendeth his iourney, and onely careth how hee may passe through: and if he haue any bu<g ref="char:EOLhyphen"/>sines there, it is onely to advance his estate at
+<pb n="34" facs="tcp:3158:25"/> home in his own coun<g ref="char:EOLhyphen"/>try. And so it is with the godly; they estrange themselues as much as may be from the world, and the common cour<g ref="char:EOLhyphen"/>ses of it: their callings they cast not off, because they are commanded to abide in them with mo<g ref="char:EOLhyphen"/>derate care, to provide for themselues, &amp; theirs. And for earthly things they cannot be without them, while they haue a life to maintaine by them; but yet they med<g ref="char:EOLhyphen"/>dle no more with them then needs must; and in the midst of their earth<g ref="char:EOLhyphen"/>ly
+<pb n="35" facs="tcp:3158:25"/> busines are not earth<g ref="char:EOLhyphen"/>ly minded. They are Burgesses of another <note place="margin">Col. 3. 10.</note> Corporation, and all their trading and traf<g ref="char:EOLhyphen"/>fique here is to make themselues a rich and sure estate there. They haue a chiefe businesse to doe which they prin<g ref="char:EOLhyphen"/>cipally intend, namely, to seeke the kingdome of God, and the righte<g ref="char:EOLhyphen"/>ousnesse of it; to repent of their sins, to beleeue in the Sonne of God; and to make their electi<g ref="char:EOLhyphen"/>on sure: whereto they giue all diligence, as they are exhorted, 2. <hi>Pet.</hi> I. 10.</p>
+            <pb n="36" facs="tcp:3158:26"/>
+            <p> Fiftly, The godly are strangers in respect of their affection; for, as strangers long after home; and where ever their bodies be, their hearts and mindes are not there, but at home where their dear friends and estates are: So is it with the Saints, whose minds and meditations, and conversation are in heaven before hand; for there is their Fathers house, and there is their inheritance; there is Ie<g ref="char:EOLhyphen"/>sus Christ their treasure; and no marveile if their hearts be there where
+<pb n="37" facs="tcp:3158:26"/> their treasure is. The worldling hath his whole portion in this life, and therefore he be<g ref="char:EOLhyphen"/>stowes all his heart, his thoughts, his cares, his desires, and endevours vpon the world; he runs after it with a full desire. But it cannot be so with the godly man, who is minded as was good <hi>Nehemiah</hi> 2. 3. Who al<g ref="char:EOLhyphen"/>though his person was in the King of <hi>Persia</hi> his Court, and was a neere attendant at the Kings Table, yet his heart was at <hi>Ierusalem.</hi> And as <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> who while he was
+<pb n="38" facs="tcp:3158:27"/> in the land of his capti<g ref="char:EOLhyphen"/>vitie, yet he opened his windowes euery day to<g ref="char:EOLhyphen"/>wards <hi>Ierusalem.</hi>
+            </p>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> But are not wicked men strangers here vpon earth, as well as the godly?</head>
+               <p>
+                  <hi>Answ.</hi> Wicked men and worldlings are in<g ref="char:EOLhyphen"/>deed strangers here, if we look towards God, they are strangers with him, strangers from the cove<g ref="char:EOLhyphen"/>nant of God; and stran<g ref="char:EOLhyphen"/>gers from the life, and wayes of God. Or if we cōsider the time of their continuance here, they haue no more continu<g ref="char:EOLhyphen"/>ance
+<pb n="39" facs="tcp:3158:27"/> here then others; they haue no Leases of their liues; nor no surer hold of their estates then others haue. The rich Glutton heard; <hi>thou foole this night shall they take away thy soule,</hi> and all. Or if we consider the place in which they liue, they are strangers; for the East-wind takes <note place="margin">Iob 27. 21.</note> away and hurles them out of their place, as ea<g ref="char:EOLhyphen"/>sily as any other. And the <hi>mightie die suddenly,</hi>
+                  <note place="margin">Iob 34. 20.</note> and <hi>are taken away with<g ref="char:EOLhyphen"/>out hand.</hi> And their hou<g ref="char:EOLhyphen"/>ses &amp; possessions which knew them once, shall
+<pb n="40" facs="tcp:3158:28"/> know them no more, but take in other stran<g ref="char:EOLhyphen"/>gers for a terme of daies, as they tooke in them.</p>
+               <p>But wicked men are not strangers as the god<g ref="char:EOLhyphen"/>ly are, in foure respects.</p>
+               <p n="1">1. In their owne ac<g ref="char:EOLhyphen"/>count, or conceit; for, though their estate be as vnstable as any others; yet haue they a strong conceit of continuance, and of taking their rest for many yeares. They are described to be such as put off the evill day; and make leagues with death; and are hardly brought to confesse
+<pb n="41" facs="tcp:3158:28"/> themselues to be Pil<g ref="char:EOLhyphen"/>grimes, and strangers.</p>
+               <p n="2">2. In the worlds ac<g ref="char:EOLhyphen"/>count they be not stran<g ref="char:EOLhyphen"/>gers, but neighbours, &amp; Towne-dwellers. The world knows them, and loueth them as her owne: yea, luileth them in her lap as her chil<g ref="char:EOLhyphen"/>dren, shee graceth them, enricheth them, and ad<g ref="char:EOLhyphen"/>vanceth them as men of best deserts. In a word, shee thinketh nothing shee hath too good for such fast friends, and di<g ref="char:EOLhyphen"/>ligent servants.</p>
+               <p n="3">3. In their owne af<g ref="char:EOLhyphen"/>fection they be no stran<g ref="char:EOLhyphen"/>gers;
+<pb n="42" facs="tcp:3158:29"/> for how can they considering they haue no other portion but here? <hi>Psal.</hi> 17. 14. How can they but <hi>mind earth<g ref="char:EOLhyphen"/>ly</hi>
+                  <note place="margin">Phil. 3. 19.</note> things, to whom God hath shewed no better? How can they but giue away their affections, and bury their hearts in earth, and drown them<g ref="char:EOLhyphen"/>selues in the delights of it, that haue no other God, no other heaven? What man will be wil<g ref="char:EOLhyphen"/>ling to giue over a bro<g ref="char:EOLhyphen"/>ken title, till he be assu<g ref="char:EOLhyphen"/>red, and seated in a bet<g ref="char:EOLhyphen"/>ter? which because they are not; like prophane
+<pb n="43" facs="tcp:3158:29"/>
+                  <hi>Esaus,</hi> they hunger after potage, let the blessing goe where it will.</p>
+               <p n="4">4. In their course and conversation they doe not <hi>declare themselues to be strangers.</hi> All their stu<g ref="char:EOLhyphen"/>die, their paines, their sweat and endevour, is to get a sure and conten<g ref="char:EOLhyphen"/>ted estate in earth: they treasure all in earth; If they can encrease their Corne, their Wine, their Oyle, their Coyne, their Commodities, they rest as in a good portion; seldom or never seeking in earnest that <hi>good part</hi> which should never be
+<pb n="44" facs="tcp:3158:30"/> taken from them, nor they from it, if once they could attaine it. Thus much of the Doctrine, and this question. The Vse followeth.</p>
+               <p>First, In that the god<g ref="char:EOLhyphen"/>ly man is a stranger and Pilgrim here, we learne sundry duties. As first, to <note place="margin">Christian sobrietie in 1. affecting.</note> practise Christian sobri<g ref="char:EOLhyphen"/>etie, in the affecting, en<g ref="char:EOLhyphen"/>ioying, and vsing the things of this life. For 1. a stranger in his way af<g ref="char:EOLhyphen"/>fects not, desires not, lookes not for great things for himselfe in the Cittie he travelleth through; he lightly re<g ref="char:EOLhyphen"/>gardeth
+<pb n="45" facs="tcp:3158:30"/> the honors, of<g ref="char:EOLhyphen"/>fices, revenues, and pri<g ref="char:EOLhyphen"/>viledges of it, his chiefe desires &amp; affections are else where; all the privi<g ref="char:EOLhyphen"/>lege he expecteth there is how to passe quietly &amp; safely through; Even so ought the Christian Pilgrim by the weaned carriage of himselfe to<g ref="char:EOLhyphen"/>wards things below, de<g ref="char:EOLhyphen"/>clare plainly (as the Pa<g ref="char:EOLhyphen"/>triarches did) that he <note place="margin">Hgb. 11. 14.</note> seeketh a Country.</p>
+               <p>
+                  <hi>Seekest thou great things</hi>
+                  <note place="margin">Ier. 45. 5.</note>
+                  <hi>for thy selfe</hi> (sayth the Lord to <hi>Barak) seeke them not.</hi> And why must he not? because he was but
+<pb n="44" facs="tcp:3158:31"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="45" facs="tcp:3158:31"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="46" facs="tcp:3158:32"/> a stranger in that Land, now presently to be gi<g ref="char:EOLhyphen"/>uen over into the hands of strangers.</p>
+               <p>Secondly, A stranger enioyes the things of a <note place="margin">2. enioying.</note> strange place as a stran<g ref="char:EOLhyphen"/>ger; he vseth other mens goods for a night, but he setteth not his heart on them, nor taketh much delight in them, because he knoweth he must leaue them next mor<g ref="char:EOLhyphen"/>ning, &amp; may take none away with him; Even so a Christian stranger ta<g ref="char:EOLhyphen"/>keth but little delight in his iourney, because he thinketh not himselfe
+<pb n="47" facs="tcp:3158:32"/> at home, neither doth he enioy things here as his portion, nor as his owne, because he is to be countable for them; and because he well knoweth, that too much delight in fleshly and worldly pleasures giu<g ref="char:EOLhyphen"/>eth life to corruption, and weakneth grace in him; he attendeth that wholsome Apostolicall exhortation, 1. <hi>Pet.</hi> 2. 11. <hi>Dearely beloved, as stran<g ref="char:EOLhyphen"/>gers and Pilgrims absteyne from fleshly lusts, which fight against the soule.</hi>
+               </p>
+               <p>Thirdly, a stranger v<g ref="char:EOLhyphen"/>seth the necessary com<g ref="char:EOLhyphen"/>forts <note place="margin">3. Vsing the world.</note>
+                  <pb n="48" facs="tcp:3158:33"/> he meeteth with in his way as a stranger; he vseth them rather for necessitie then for satie<g ref="char:EOLhyphen"/>tie, onely for present oc<g ref="char:EOLhyphen"/>casion, and that with moderation and sobrie<g ref="char:EOLhyphen"/>tie; Even so a Christian Pilgrim must learne to <hi>vse the world as not vsing</hi>
+                  <note place="margin">1 Cor. 7. 31.</note>
+                  <hi>it:</hi> and in the midst of his wealth and abun<g ref="char:EOLhyphen"/>dance, in the fruition of his greatest delights and pleasures, to take his mind off them, and to lift vp his thoughts to heaven, the place of his abode. Which dutie the Apostle strongly enfor<g ref="char:EOLhyphen"/>ceth,
+<pb n="49" facs="tcp:3158:33"/>
+                  <hi>Phil.</hi> 3. 20. Carnall men <hi>mind earthly things,</hi> and forgetting both heaven, and the God of heaven, <hi>make their belly their God,</hi> that is, drowne themselues in the pond and puddle of sensuali<g ref="char:EOLhyphen"/>tie. But farre be it from vs who professe the tea<g ref="char:EOLhyphen"/>ching of grace so to do, <hi>Our conuersation is in hea<g ref="char:EOLhyphen"/>uen,</hi> from whence wee looke for a Saviour; they haue <hi>their portion in this life,</hi> but our portion <note place="margin">Psal. 17. 14.</note> is in another, and con<g ref="char:EOLhyphen"/>trary courses beseeme men of contrary Coun<g ref="char:EOLhyphen"/>tries.</p>
+               <pb facs="tcp:3158:34"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="49" facs="tcp:3158:34"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="48" facs="tcp:3158:35"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="49" facs="tcp:3158:35"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="50" facs="tcp:3158:36"/>
+               <p> Secondly, In that we are strangers here, wee learne another Dutie, which is the exercise of Christian patience and contentment in all e<g ref="char:EOLhyphen"/>states, be it sicknes, po<g ref="char:EOLhyphen"/>vertie, reproches, abuses or wrongs in any kinde, a stranger is contented to endure the wrong that meet him in his way; he digesteth, and putteth vp all patiently; he complaineth not, &amp; much lesse seeketh re<g ref="char:EOLhyphen"/>venge: for he knowes he shall haue little rest or redresse till he come home: Even so the Chri<g ref="char:EOLhyphen"/>stian
+<pb n="51" facs="tcp:3158:36"/>
+                  <hi>Pilgrim</hi> must learne patiently to endure the afflictions, and course and crosse vsages of this strange Country. 2. <hi>Cor.</hi> 4. last vers. the blessed Apostle was contented to endure all indignities and wrongs; because he was of another country, the high priviledges &amp; excellencies whereof, <hi>eie hath never seene,</hi> nor <hi>eare hath ever heard,</hi> nor <hi>ever entred into the heart of man.</hi> When the Disci<g ref="char:EOLhyphen"/>ples <note place="margin">Ioh. 14. 4.</note> of our SAVIOVR tooke it heavily that Christ sayd hee must leaue them: for now
+<pb n="52" facs="tcp:3158:37"/> what could they expect but to be exposed and layd open to all the worlds malignitie, desti<g ref="char:EOLhyphen"/>tute of their Lords pre<g ref="char:EOLhyphen"/>sence and protection? he comforteth them by this same argument; that this is not their place of rest, but <hi>he goeth to prepare a place for them. Moses chused to suffer af<g ref="char:EOLhyphen"/>flictions</hi>
+                  <note place="margin">Heb. 11. 26.</note>
+                  <hi>with Gods people,</hi> because he was <hi>a stran<g ref="char:EOLhyphen"/>ger</hi> here, and <hi>looked for a recompence of reward hereafter.</hi> A cloud of Martyres as witnesses seale this truth, who <hi>were slaine, hewen a sun<g ref="char:EOLhyphen"/>der,</hi>
+                  <pb n="53" facs="tcp:3158:37"/>
+                  <hi>wandred vp and downe in sheepes skins, in goats skins, being destitute, afflicted, and tormented;</hi> and <hi>would not be delive<g ref="char:EOLhyphen"/>red</hi>
+                  <note place="margin">Ver. 35.</note> (namely vpon vne<g ref="char:EOLhyphen"/>quall conditions) be<g ref="char:EOLhyphen"/>cause they saw that <hi>God had prepared better things for them.</hi>
+               </p>
+               <p>A stranger turnes not against euery Dog that barketh at him; let <hi>Doeg</hi> accuse, &amp; <hi>Shemei</hi> revile, let Currs barke, there is no hope to still them; the best way is to con<g ref="char:EOLhyphen"/>temne them, and attend and ride on thy way. A stranger shrinkes not
+<pb n="54" facs="tcp:3158:38"/> for euery shower of raine, nor is dishartned <note place="margin">Nub<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ula est transibit.</note> with the roughnes, and foulenes of the way; but he will through thicke and thin, through drops and drought, and all be<g ref="char:EOLhyphen"/>cause he is going home. Neither must thou that art a Christian Pilgrim, shrinke for the stormes of the world, nor the as<g ref="char:EOLhyphen"/>perousnes of the way, which is all strewed with crosses; but harten thy selfe as the Passen<g ref="char:EOLhyphen"/>ger who vsually sayth, it is never an ill day that hath a good night; and though many bitter pils
+<pb n="55" facs="tcp:3158:38"/> of harsh and strange vsa<g ref="char:EOLhyphen"/>ges must be swallowed by these strangers, yet the consideration of home is as sugar in their pockets to sweetē them all.</p>
+               <p>A stranger measures not his owne worth, nor thinketh worse of him<g ref="char:EOLhyphen"/>selfe for things befalling him in the way; but e<g ref="char:EOLhyphen"/>steemeth and valueth himselfe, according to his estate at home: So must the Christian stran<g ref="char:EOLhyphen"/>ger, liue by faith, looke vpon things not seene. Let the world vnder-va<g ref="char:EOLhyphen"/>lue thee, content thy
+<pb n="56" facs="tcp:3158:39"/> selfe, that thou hast cre<g ref="char:EOLhyphen"/>dit, and reputation at home where thou art knowne, and thy worth is knowne, which by no disparagement in the way can be obscured, or diminished.</p>
+               <p>Thirdly, a third du<g ref="char:EOLhyphen"/>tie hence that wee are strangers heere, is to learne to estrange our selues from the world, and courses of worldly men. A stranger when ever he trauailes, retei<g ref="char:EOLhyphen"/>neth the maners, fashi<g ref="char:EOLhyphen"/>ons, and customes of his owne country; a Christi<g ref="char:EOLhyphen"/>an stranger although he
+<pb n="57" facs="tcp:3158:39"/> be in the world, yet hee is not of the world, he is of another corporation, and therfore though he walke <hi>in the flesh,</hi> yet he <note place="margin">2 Cor. 10. 3 <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> must not warre <hi>according to the flesh.</hi> He carrieth this body of flesh about him as others doe, but hee must fight against flesh and the lusts of it, contrary to the Patrons, &amp; defenders of the cor<g ref="char:EOLhyphen"/>ruptions that are in the worlde through lust. The worlde may and must enioy our presence for a time, but must at no time gaine our con<g ref="char:EOLhyphen"/>formitie to it. <hi>Rom.</hi> 12. 2.
+<pb n="58" facs="tcp:3158:40"/>
+                  <hi>Fashion not your selues ac<g ref="char:EOLhyphen"/>cording to this world,</hi> that is, the customes and gui<g ref="char:EOLhyphen"/>zes of it; because it li<g ref="char:EOLhyphen"/>eth in wickednesse, and the Christian is cast into another forme of doc<g ref="char:EOLhyphen"/>trine and conuersation. Art thou now sollicited to follow the lusts and fashion of this worlde? thinke with thy selfe, that thou art a stranger here, and of another Countrey; thou livest vnder other lawes; thou mayst not cast in thy lot with the wicked of the world; nor giue voyce or suffrage in their mee<g ref="char:EOLhyphen"/>tings;
+<pb n="59" facs="tcp:3158:40"/> but be as <hi>Lot,</hi> who though he were in <hi>So<g ref="char:EOLhyphen"/>dom,</hi> was not of <hi>Sodom;</hi> but was perpetually vexed with the vncleane conversation of those wicked men. Art thou provoked to sweare, to drinke excessiuely, to lie for advantage, to breake the Sabboth for gaine, to vncleannes, or any o<g ref="char:EOLhyphen"/>ther foule lust? Now say to thy selfe; I am of the kingdome of light; but this is a worke of darke<g ref="char:EOLhyphen"/>nes; this is an vnlaw<g ref="char:EOLhyphen"/>full act in my Country, and why should I prac<g ref="char:EOLhyphen"/>tise it here? seeing my
+<pb n="60" facs="tcp:3158:41"/> Lord and King must needs know it: if I com<g ref="char:EOLhyphen"/>mit treason here against my King and Country; my King hath infor<g ref="char:EOLhyphen"/>mers inough, and I shall loose my whole estate there, and be banished out of my Country for ever. Shall I (sayth <hi>Io<g ref="char:EOLhyphen"/>seph)</hi> commit this sinne against my God, against my Maister? Seeing my Maister hath kept no<g ref="char:EOLhyphen"/>thing from me but sin; I will not do this thing, I will not sin, and com<g ref="char:EOLhyphen"/>mit this high wicked<g ref="char:EOLhyphen"/>nesse.</p>
+               <p>Fourthly. A fourth du<g ref="char:EOLhyphen"/>tie
+<pb n="61" facs="tcp:3158:41"/> is that, seeing we are strangers here, to learne to affect our owne coun<g ref="char:EOLhyphen"/>try, and highly to e<g ref="char:EOLhyphen"/>steeme it. Euery man by nature loueth his natiue Country best; neyther thinketh himselfe so well in any forrein land; and strangers, especially having parents, kinred, and great revenues in their natiue soyle; and being hardly entreated where they soiourne; would be glad to returne home, &amp; enioy the sight of those whom they haue long longed to see: Euen so the Christian
+<pb n="62" facs="tcp:3158:42"/> Pilgrim. Never did <hi>Isra<g ref="char:EOLhyphen"/>el</hi> more affect and extoll their owne Country in their banishment from it, and captivitie in <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> then the Christian stranger doth affectedly desire, and preferre his heavenly Coūtry aboue this strange land, the Countrie of his captivi<g ref="char:EOLhyphen"/>tie; For, he discerneth that this is not his country, first, That is a mans Country where he was borne and brought vp, but whence taketh a Christian his spirituall birth, or where is hee brought vp but in the
+<pb n="63" facs="tcp:3158:42"/> Church and kingdome of Christ? Earth giueth him a birth and being as he is man, but as a Christian he is borne of God. Secondly, againe, that is a mans Country where his parents, his ancestors, and deare kin<g ref="char:EOLhyphen"/>dred dwell, and inhabit. Now where dwelleth the Christian mans Fa<g ref="char:EOLhyphen"/>ther, but in heaven? Where is his elder bro<g ref="char:EOLhyphen"/>ther, but there? Where are all his brethren and sisters, sonnes &amp; daugh<g ref="char:EOLhyphen"/>ters of the same parents but there? and therefore heaven is his Country.
+<pb n="64" facs="tcp:3158:43"/> Thirdly, Further, that is a mans Country where his principall estate, and goods are, where his pa<g ref="char:EOLhyphen"/>trimony &amp; inheritance lyeth; and where is the chiefe portion, the trea<g ref="char:EOLhyphen"/>sure, the immortall in<g ref="char:EOLhyphen"/>heritance of the Christi<g ref="char:EOLhyphen"/>an, but in heaven? And where els is his Coun<g ref="char:EOLhyphen"/>trie? Now then, a Chri<g ref="char:EOLhyphen"/>stian considering on the one hand, that he is in a strange Country, and how hardly he hath bin intreated in it, and so likely to be still; and on the other hand, that he hath an home, and a fa<g ref="char:EOLhyphen"/>ther
+<pb n="65" facs="tcp:3158:43"/> there that loueth him dearely; and that his elder brother Iesus Christ, and all his spiri<g ref="char:EOLhyphen"/>tuall kindred, the Saints of God are there; And besides that, he hath a rich portion and a large patrimony, even an im<g ref="char:EOLhyphen"/>mortall inheritance in heaven; how can he chuse but to be reared in his affections, yea, ra<g ref="char:EOLhyphen"/>vished to be there? desi<g ref="char:EOLhyphen"/>ring nothing in the world more then to <hi>be dissolved</hi> hence, and to <hi>be with Christ, which is best</hi>
+                  <note place="margin">Phil. 1. 23.</note>
+                  <hi>of all.</hi> A traveller hath his mind, and thoughts
+<pb n="66" facs="tcp:3158:44"/> still vpon home, &amp; sayth with himselfe, home is homely. And the Mar<g ref="char:EOLhyphen"/>riner, or Sea-faring man in a storme, or rough Sea, hath his desires on the Shore, and his mind is not where his body is. So is it with the Christi<g ref="char:EOLhyphen"/>an Passenger, his mind is not where his body is; and if he cannot get home in the body as soone as he desireth, yet in his spirit, he will mind heaven, and hea<g ref="char:EOLhyphen"/>venly thngs; he will get as neere home as he can; if he cannot get in<g ref="char:EOLhyphen"/>to the heart of the citie,
+<pb n="67" facs="tcp:3158:44"/> he will be sure to get in<g ref="char:EOLhyphen"/>to the suburbes the Church of God. If he cannot get suddenly in<g ref="char:EOLhyphen"/>to that <hi>Ierusalem which</hi>
+                  <note place="margin">Rev. 21. 2.</note>
+                  <hi>is aboue,</hi> he will get into the <hi>Ierusalem which is from aboue;</hi> and where his person cannot be for the time, his con<g ref="char:EOLhyphen"/>versation and meditati<g ref="char:EOLhyphen"/>on shall be <hi>in heaven;</hi> for <note place="margin">Math. 6. 21.</note>
+                  <hi>where his treasure is there will his heart be also.</hi>
+               </p>
+               <p>
+                  <hi>Vse</hi> 2. In that we are strangers <hi>with God,</hi> wee learne divers things;</p>
+               <p n="1">1. The soveraigntie and power of God, who is <hi>the great owner,</hi> and <hi>ru<g ref="char:EOLhyphen"/>ler</hi>
+                  <note place="margin">Zach. 4. 14.</note>
+                  <pb n="68" facs="tcp:3158:45"/>
+                  <hi>of the whole earth.</hi> Kings themselues, who are the highest earthly Lords, &amp; commanders, are but strangers with God, for <hi>the earth is the</hi>
+                  <note place="margin">Psal. 24. 1.</note>
+                  <hi>Lords,</hi> and <hi>all that there<g ref="char:EOLhyphen"/>in is:</hi> And no man sitteth in his owne, but are Te<g ref="char:EOLhyphen"/>nants at will vnder this great Land-Lord. The greatest of men, yea, of Kings, are but as <hi>David</hi> was, <hi>soiourners</hi> in his sight. <hi>Levit.</hi> 25. 23. <hi>The Land is his,</hi> and <hi>wee are but strangers,</hi> and <hi>soiour<g ref="char:EOLhyphen"/>ners with him.</hi>
+               </p>
+               <p n="2">2. We must hence ga<g ref="char:EOLhyphen"/>ther out our owne dutie
+<pb n="69" facs="tcp:3158:45"/> towards God, in whose Country we soiourne; and our dutie is mani<g ref="char:EOLhyphen"/>fold;</p>
+               <p n="1">1. To aske leaue of GOD, to passe through his Country; so did <hi>Is<g ref="char:EOLhyphen"/>rael</hi> of <hi>Edom,</hi> a wicked Prince &amp; people. <hi>Numb.</hi> 20. <hi>I pray thee that we may passe through thy Country, &amp;c.</hi> It is fit to aske leaue where no right is. Besides, that by daily prayer for Gods leaue, and favourable loue in our way, we both ascribe vnto God the honour of sove<g ref="char:EOLhyphen"/>raigntie and bountie;
+<pb n="68" facs="tcp:3158:46"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="69" facs="tcp:3158:46"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="70" facs="tcp:3158:47"/> as also sweeten his mer<g ref="char:EOLhyphen"/>cies which he giueth vs leaue to enioy, all which are <hi>sanctified to vs by the</hi>
+                  <note place="margin">1 Tim. 4. 5.</note>
+                  <hi>word and by prayer.</hi>
+               </p>
+               <p n="2">2. Bind thy selfe from trespassing in the way and Country through which thou passest; So did <hi>Israel</hi> vnto <hi>Edom, We will not goe through the</hi>
+                  <note place="margin">Num. 20. 17</note>
+                  <hi>fields, nor the vineyards: neither will we drinke of the water of the wells; we will goe by the Kings way, and neither turne to the right hand, nor left, till we be past thy borders;</hi> So must the Christian bee carefull he transgresse
+<pb n="71" facs="tcp:3158:47"/> not the lawes of the Country in which he soiournes, to stirre vp against himselfe the wrath &amp; revenge of the Lord in whose Coun<g ref="char:EOLhyphen"/>try he soiourneth; but frame himselfe to please him, by whose leaue he travelleth through his Country. How carefull and diligent were <hi>Io<g ref="char:EOLhyphen"/>sephs</hi>
+                  <note place="margin">Gen. 44.</note> brethren to please their vnknowne bro<g ref="char:EOLhyphen"/>ther, the Lord of that strange Country? Much more ought we to please our brother <hi>Iesus Christ,</hi> the Lord of this strange country through which
+<pb n="72" facs="tcp:3158:48"/> we passe to our owne <hi>Canaan.</hi>
+               </p>
+               <p n="3">3. Cast thy care vp<g ref="char:EOLhyphen"/>on God, and depend vpon him for all need<g ref="char:EOLhyphen"/>full supplies; so did ho<g ref="char:EOLhyphen"/>ly <hi>David</hi> here, because he was a stranger in Gods Country, he ther<g ref="char:EOLhyphen"/>fore casteth his burden vpon the Lord, desiring him to <hi>heare his prayer, and to harken to his cry,</hi> and <hi>not to be silent at his teares.</hi> A stranger over<g ref="char:EOLhyphen"/>loadeth not himselfe with cares, &amp; carriages; but carrying a compe<g ref="char:EOLhyphen"/>tent viaunce with him, dependeth for all neces<g ref="char:EOLhyphen"/>saries
+<pb n="73" facs="tcp:3158:48"/> vpon them where he soiourneth; so a Chri<g ref="char:EOLhyphen"/>stian stranger need be in <hi>nothing carefull, but in all</hi>
+                  <note place="margin">Phil. 4. 6.</note>
+                  <hi>things let his requests be shewed vnto God</hi> (the King of the Country) <hi>in prayer.</hi> All distrustfull and excessiue carefulnes is to be avoyded of a Christian, yea, suppose the care be about things lawful, if it be excessiue, it is sinfull, and vnseem<g ref="char:EOLhyphen"/>ly in a Christian Pil<g ref="char:EOLhyphen"/>grim. Let thy chiefe care be, to <hi>commit thy way vn<g ref="char:EOLhyphen"/>to</hi>
+                  <note place="margin">Psal. 37. 5. 1 Pet. 5. 7.</note>
+                  <hi>the Lord, and trust in him, and he shall bring it to passe.</hi> Psal. 55. 22. <hi>Cast</hi>
+                  <pb n="74" facs="tcp:3158:49"/>
+                  <hi>thy care vpon the <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and he shall nourish<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p n="4">4. Be much in t<gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fulnes vnto God <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the comfortable bles<g ref="char:EOLhyphen"/>sings thou receivest in thy Pilgrimage: a stran<g ref="char:EOLhyphen"/>ger thankfully accep<g ref="char:EOLhyphen"/>teth all the favours shewed him in a strange Country: and so did holy <hi>David,</hi> when God had enabled him to prepare abundantly for the building of the tem<g ref="char:EOLhyphen"/>ple, breake out into a<g ref="char:EOLhyphen"/>bundant prayses; <hi>Wee thanke thee our God, and</hi>
+                  <note place="margin">1 Chro. 29. 13. 14.</note>
+                  <hi>prayse thy glorious Name. But who am I? or what is</hi>
+                  <pb n="75" facs="tcp:3158:49"/>
+                  <hi>my people, that we should offer vnto thee?</hi> for <hi>all is thine,</hi> and <hi>of thine owne haue we given thee;</hi> for, <hi>wee are strangers before thee, and soiourners, as all our Fathers were.</hi> And surely it well beseemeth the iust to be thankfull, seeing they are strangers in the Lords land, and all the comforts they enioy, are his by right, and possession, &amp; theirs onely by leaue, and thankfull acceptation.</p>
+               <p n="5">5. Be contented and patient, if this great LORD deny thee any thing thou wouldst
+<pb n="76" facs="tcp:3158:50"/> haue, whilest thou pas<g ref="char:EOLhyphen"/>sest through his Coun<g ref="char:EOLhyphen"/>try; so was <hi>Israel</hi> when <note place="margin">Numb. 20. 21.</note>
+                  <hi>Edom</hi> out of a churlish and hurtfull minde, de<g ref="char:EOLhyphen"/>nyed them peaceable passage. But the Lord of this Country knoweth what is sit for vs, and ne<g ref="char:EOLhyphen"/>ver denieth any thing out of a churlish mind, neither can deny any thing good in it selfe, and good to vs; and if he withhold any hurtfull things, we must be not only patient but thank<g ref="char:EOLunhyphen"/>full.</p>
+               <p>
+                  <hi>Vse</hi> 3 In that we are <hi>strangers here,</hi> and travel<g ref="char:EOLhyphen"/>ling
+<pb n="77" facs="tcp:3158:50"/> to our Country, <hi>as all our Fathers haue done before vs,</hi> it appeareth that our wisedome will be to resolue of paynes and travell all the dayes of our life, and not to expect rest till the night of death come, when dying in the Lord wee shall rest from our la<g ref="char:EOLhyphen"/>bours; and because <hi>this</hi>
+                  <note place="margin">Mica. 2. 10.</note>
+                  <hi>is not our rest,</hi> we <hi>must a<g ref="char:EOLhyphen"/>rise and depart hence.</hi> And seeing we can no more avoyd this weary iourney, then any of our Fathers could doe; wee must rather bestow wise and carefull thoughts,
+<pb n="78" facs="tcp:3158:51"/> in fitting our selues to our iourney, &amp; in beha<g ref="char:EOLhyphen"/>ving our selues through our way, then to expect to auoyd the tediousnes and difficulties of it.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> How may we fit our selues for our iourney home into our owne Country?</head>
+               <p>
+                  <hi>Answ.</hi> A traveller fit<g ref="char:EOLhyphen"/>teth himselfe to his iour<g ref="char:EOLhyphen"/>ney two wayes especial<g ref="char:EOLhyphen"/>ly;</p>
+               <p n="1">1. By casting off, and leauing behind him whatsoeuer would bur<g ref="char:EOLhyphen"/>den or hinder him in his way.</p>
+               <p n="2">2. By providing for
+<pb n="79" facs="tcp:3158:51"/> himselfe things fit for his iourney.</p>
+               <p>Of the former sort there be three especiall encumbrances that the Christian Pilgrim must lighten himselfe off. The first of them is sin, which as an intollerable burden <hi>presseth vs down,</hi> and <hi>hangeth fast on;</hi> and <note place="margin">Heb. 12. 1.</note> therefore the Apostle counselleth <hi>to cast it off,</hi> if we meane to run the race before vs. Now the way to lightē our selues of this weight, is to ex<g ref="char:EOLhyphen"/>ercise euery day the grace of repentance and mortification, and daily
+<pb n="80" facs="tcp:3158:52"/> to take some sin or other in hand, and at least to slake &amp; abate the power of it, that if we cannot be rid of the sinne in re<g ref="char:EOLhyphen"/>spect of the presence of it, yet we may be rid of the raigne &amp; command of it.</p>
+               <p>The second, are earth<g ref="char:EOLhyphen"/>ly cares, profits, &amp; plea<g ref="char:EOLhyphen"/>sures, which are as hea<g ref="char:EOLhyphen"/>vie stones tyed vnto vs, and pressing vs from heaven to earth, making heavie &amp; sad the soule, and vnweldy in her mo<g ref="char:EOLhyphen"/>tions. The way for vs to lighten our selues of these encumbrances, is
+<pb n="81" facs="tcp:3158:52"/> daily and continually to elevate, and rayse our thought homward, and heavenward, &amp; exercise our selues in holy medi<g ref="char:EOLhyphen"/>tations, prayers, and prayses, sundry tymes through the day.</p>
+               <p>For as he that would keepe a Clocke in true motion, must euery day sundry times winde vp the plummets, which are still drawing downe<g ref="char:EOLhyphen"/>ward, even so must wee doe with our hearts; the cares and pleasures of the world are as plum<g ref="char:EOLhyphen"/>mets of lead, pressing downe the soule inces<g ref="char:EOLhyphen"/>santly,
+<pb n="80" facs="tcp:3158:53"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="81" facs="tcp:3158:53"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="82" facs="tcp:3158:54"/> in her motion towards heaven; and he that would continue his motion must daily wind vp his heart to<g ref="char:EOLhyphen"/>wards God: &amp; by maine strength of grace fetch it vp from earth, that it may be firmly setled on heavenly things, deligh<g ref="char:EOLhyphen"/>ting it selfe with the ri<g ref="char:EOLhyphen"/>ches of heaven; &amp; with contemplation of those pleasures, that are at the right hand of God for euermore.</p>
+               <p>The third encum<g ref="char:EOLhyphen"/>brance, is the feare of death, which presseth vs all our life; and the
+<pb n="83" facs="tcp:3158:54"/> Christian must lighten himselfe of this burden by looking beyond it to his owne home; by lon<g ref="char:EOLhyphen"/>ging after the liuing God, whom none can see in the body and liue; by considering that the nearer he is to death, he is so much neerer home. And what stranger fea<g ref="char:EOLhyphen"/>reth to goe home; or is sorry when after a long absence, he is entring into his owne Cittie?</p>
+               <p>Secondly, A wise Chri<g ref="char:EOLhyphen"/>stian will furnish and provide himselfe with necessaries, and needfull supplies, to helpe him
+<pb n="84" facs="tcp:3158:55"/> through his iourney.</p>
+               <p>There be fiue things especially which a tra<g ref="char:EOLhyphen"/>veller must fit himselfe withall, that his iourney may be lesse tedious, and more prosperous to himselfe.</p>
+               <p n="1">1. The knowledge of the direct way. Now whereas no man knows the way to the heavenly Country without Gods teaching, every one must goe to God him<g ref="char:EOLhyphen"/>selfe first, and then to such as God hath ap<g ref="char:EOLhyphen"/>pointed to be the direc<g ref="char:EOLhyphen"/>tors, and instructors in this way. The former we
+<pb n="85" facs="tcp:3158:55"/> see in holy <hi>David. Psal.</hi> 119. 19. <hi>I am a stranger vpon earth, therefore hide not thy Commandements from me.</hi> He knew well how hardly a blind man could performe a farre and dangerous iourney, and thus it is onely the Commandement that shewes the way to this heavēly Country. Why was <hi>David</hi> a blind man, or did he not know the ten Commandements? Even <hi>David</hi> who was not stone blind, but much enlightned, was blind in part, and still earnest, that the LORD
+<pb n="86" facs="tcp:3158:56"/> would further <hi>open his</hi>
+                  <note place="margin">Psal. 119. 18. 34. 35.</note>
+                  <hi>eyes,</hi> to see the way more plainly, &amp; clearely then yet he did: And though he knew the words, and true sence of the ten Commandements, yet he desireth still to be led further into the particu<g ref="char:EOLhyphen"/>lar vse, application, di<g ref="char:EOLhyphen"/>rection, and obedience of them; and of all o<g ref="char:EOLhyphen"/>ther parts of the Word, which he sayth, is <hi>excee<g ref="char:EOLhyphen"/>ding</hi>
+                  <note place="margin">Vers. 96.</note>
+                  <hi>large.</hi> And for the latter; As a stranger in an vnknowne Country, and way, will ever be as<g ref="char:EOLhyphen"/>king the way of every one never so simple,
+<pb n="87" facs="tcp:3158:56"/> who knoweth the way better then himselfe; and will observe the se<g ref="char:EOLhyphen"/>verall markes, and sta<g ref="char:EOLhyphen"/>tues, by which he may know, whether he be right, or no: So must every Christian Pil<g ref="char:EOLhyphen"/>grim be inquisitiue of his way; for which pur<g ref="char:EOLhyphen"/>pose he must frequent the ministry of the word diligently, which God hath erected to be as <hi>a light in a darke place;</hi> as the Pillar of the Cloud and fire by night and by day to direct vs through this dry and desert wil<g ref="char:EOLhyphen"/>dernesse; as <hi>Ariadnes</hi>
+                  <pb n="88" facs="tcp:3158:57"/> threed to helpe vs through this trouble<g ref="char:EOLhyphen"/>some Maze and Laby<g ref="char:EOLhyphen"/>rinth; and as <hi>a voyce be<g ref="char:EOLhyphen"/>hind vs,</hi> saying, <hi>this is the way, walke in it.</hi> An in<g ref="char:EOLhyphen"/>quisitiue Christian will be still consulting with Gods Ministers about the way of God. And conferring with private Christians, be they ne<g ref="char:EOLhyphen"/>ver so meane in place or appearance, concerning their great iourney be<g ref="char:EOLhyphen"/>tweene heaven &amp; earth; and will take speciall notice of the markes of their way, as whether it be the narrow way, or
+<pb n="89" facs="tcp:3158:57"/> the broad way; whether it be strawed with cros<g ref="char:EOLhyphen"/>ses, or pleasant to the flesh; whether it be a cleane way, or a foule, dirtie, and miri<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> way of lusts; whether it be an old beaten way by the feet of auncient belee<g ref="char:EOLhyphen"/>vers, the Prophets, the Apostles, and holy men, yea, of Iesus Christ him<g ref="char:EOLhyphen"/>selfe, or a new broken and devised way, vn<g ref="char:EOLhyphen"/>knowne vnto them and the Scriptures; whether it be a <hi>right way,</hi> or a <note place="margin">Hos. 14. 9.</note> crooked path of by<g ref="char:EOLhyphen"/>lanes, &amp; turnings to the right hand, or to the
+<pb n="90" facs="tcp:3158:58"/> left; whether it be a lightsome, or a <hi>darke</hi>
+                  <note place="margin">Pro. 4. 19.</note> way, and the like. Thus inquisitiue and carefull will a Christian Pilgrim be of the best directions he can get; as the poore jaylor will know of <hi>Paul</hi> his prisoner, what he may doe to be saved; &amp; it is none of the ligh<g ref="char:EOLhyphen"/>test plagues of God, to haue an heart vnwilling to aske about the way of heaven.</p>
+               <p>A second comfortable helpe in an vnknowne way, is a good guide. The Christian stranger hath need of a guide, &amp;
+<pb n="91" facs="tcp:3158:58"/> the best guide is God himselfe, yea and more, God is the onely guide. In any other way or iourney, the natiues or inhabitants can guide a stranger from place to place, but here none but God can be our guide. <hi>Psal.</hi> 25. 9. <hi>He will guide in Iudgement, and teach the humble his way.</hi>
+               </p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> But how then may a man get God to be his guide?</head>
+               <p>
+                  <hi>Answ.</hi> By two speci<g ref="char:EOLhyphen"/>all meanes;</p>
+               <p n="1">1. By earnest Prayer. <hi>David</hi> knowing that none but God could
+<pb n="92" facs="tcp:3158:59"/> guide him, prayeth <hi>Psal.</hi> 14<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 8. <hi>Sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w me the way that I shall goe.</hi> And <hi>vers</hi> 10. <hi>Let thy good spi<g ref="char:EOLhyphen"/>rit l<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad me vnto the land of righteousnesse.</hi>
+               </p>
+               <p n="2">2. By constant sub<g ref="char:EOLhyphen"/>iection to Gods word; for God goeth before vs by his word, as he did before <hi>Israel</hi> in the Pil<g ref="char:EOLhyphen"/>lar of the Cloud &amp; fire; and willing obedience to Gods word maketh God our guide.</p>
+               <p>Thirdly, A stranger in his way needeth his vi<g ref="char:EOLhyphen"/>ance, or provisiō for his expence. The word of God is the Christians
+<pb n="93" facs="tcp:3158:59"/>
+                  <hi>viaticum,</hi> and supplyeth all his needs, it assords him food in his hunger being the bread of life, and the Mannah that came downe from hea<g ref="char:EOLhyphen"/>ven; it yeeldeth him drinke in his thirst, be<g ref="char:EOLhyphen"/>ing water of life, and whosoever thirsteth, is called to these sweet waters of consolation, drawne out of the wells of salvation; it assords him Physicke in his soules sicknes; strength in his weaknes; and ne<g ref="char:EOLhyphen"/>ver leaveth him that leaneth vpon it, with<g ref="char:EOLhyphen"/>out sufficient meanes to
+<pb n="94" facs="tcp:3158:60"/> helpe him through his iourney.</p>
+               <p>Fourthly, A traveller hath need of a weapon to defend himselfe, and to wound or keepe off his enemies. The same word of God is a speci<g ref="char:EOLhyphen"/>all part of our spirituall armour; it is the sword of the Spirit. And as <hi>David</hi> said of <hi>Goliahs</hi> sword, oh there is none to that, giue me that; so there is no sword to this for the repulse of all spirituall enemies, and for the sure defence of him that shall buckle it close vnto him. Be<g ref="char:EOLhyphen"/>sides
+<pb n="95" facs="tcp:3158:60"/> that, it directs him to obtaine and fasten vnto him all the other peeces of Christian ar<g ref="char:EOLhyphen"/>mour, so as in no part he lye open, or naked to danger.</p>
+               <p>Fiftly, A traveller hath need of good company, which is <hi>pro vehi<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lo,</hi> as good as a Waggon or Coach, to carry him with more ease through the tediousnes of the way. The same testimo<g ref="char:EOLhyphen"/>nies of God are sweet companions, and helpe to deceiue, and passe o<g ref="char:EOLhyphen"/>ver our time comforta<g ref="char:EOLhyphen"/>bly; if we can <hi>talke of</hi>
+                  <pb n="96" facs="tcp:3158:61"/>
+                  <hi>them in the way,</hi> and in the house, and in the field; and if we can whet them vpon our selues, and others; if we make them <hi>the man of our coun<g ref="char:EOLhyphen"/>sell,</hi> &amp; meditate on them night and day; he is ne<g ref="char:EOLhyphen"/>ver alone that hath God and Christ conferring, counselling, and direc<g ref="char:EOLhyphen"/>ting him in the Scrip<g ref="char:EOLhyphen"/>tures; neither is he alone who when he is most a<g ref="char:EOLhyphen"/>lone, is in Soliloquie with God, this man wanteth neither com<g ref="char:EOLhyphen"/>pany nor comfort.</p>
+               <p>Now how happily shall this man compasse
+<pb n="97" facs="tcp:3158:61"/> his iourney, and goe <hi>singing</hi> through the <note place="margin">Psal. 119. 54.</note> most tedious wayes of his <hi>Pilgrimage</hi> that hath thus furnished himselfe with the vnderstanding of his way; with a faith<g ref="char:EOLhyphen"/>full and vnerring guide; with sufficient provisiō for his expence; with a serviceable weapon; and with a sweet and chearefull Compani<g ref="char:EOLhyphen"/>on?</p>
+               <p>
+                  <hi>Vse</hi> 4. In that we are Pilgrims in the way to our Countrey; In this way we must learne to demeane our selues as way-faring men, &amp; imi<g ref="char:EOLhyphen"/>tate
+<pb n="98" facs="tcp:3158:62"/> the Pilgrim in these particulars.</p>
+               <p n="1">1. To be stirring ear<g ref="char:EOLhyphen"/>ly for our iourney, and take the day before vs, that we may dispatch our iourney before we be benighted. It is our Lords counsel to worke while the day lasteth, because the night com<g ref="char:EOLhyphen"/>meth wherein none can worke. <hi>Ioh.</hi> 11. 9. And his owne practise pro<g ref="char:EOLhyphen"/>pounded for our imita<g ref="char:EOLhyphen"/>tion, <hi>Ioh.</hi> 9. 4. and imi<g ref="char:EOLhyphen"/>tated by the Saints, whose prayses are in the Scriptures. Holy <hi>David</hi> served <hi>out his time accor<g ref="char:EOLhyphen"/>ding</hi>
+                  <pb n="99" facs="tcp:3158:62"/>
+                  <hi>to the counsell of God,</hi> that is, while he li<g ref="char:EOLhyphen"/>ved he was a servant of God, for the good of the age in which he lived. And the Apostle <hi>Peter</hi> exhorteth, that <hi>hence<g ref="char:EOLhyphen"/>forth</hi>
+                  <note place="margin">1 Pet. 4. 2.</note>
+                  <hi>so much time as re<g ref="char:EOLhyphen"/>maineth in the flesh, we spend according to the will of God.</hi> Well did the ho<g ref="char:EOLhyphen"/>ly men consider, what an advantage it is to set out in the way of God early, even in the mor<g ref="char:EOLhyphen"/>ning of the life; What a sweet comfort it is to be early graced; that wee haue but a short day passed away in a few
+<pb n="100" facs="tcp:3158:63"/> houres to travell in; that this day stayeth not, but hastneth from vs; that this day is the onely time to walke in; and that this day being shut in, there is no more time to worke or walke in, and therefore did bestir themselues least they should fall short of their intended iourney.</p>
+               <p n="2">2. As a man in his iour<g ref="char:EOLhyphen"/>ney, will be glad of any good company that will goe but part of his way with him; So must the Christian in his iourney be glad of companie in his way to heaven; and
+<pb n="101" facs="tcp:3158:63"/> heartily embrace the fellowship and societie of the Saints, which meane to goe through with him. Indeed if a man would chuse to sort himselfe with evill men, he might get more company, but they goe the contrary way; but a wise traveller will rather chuse to goe with one, or two, yea or alone in his right way, then goe a cleane contrary way for companie. Let vs be glad to meet our coun<g ref="char:EOLhyphen"/>try men in this through fare, be kinde to them for the same Countrey
+<pb n="102" facs="tcp:3158:64"/> sake; and as we shall ea<g ref="char:EOLhyphen"/>sily know them by their language, habit, and conversation, so let vs heartily affect them, gladly embrace them, and vndevidedly cleaue vnto them.</p>
+               <p n="3">3. In this way be glad (as a strāger in a strange Country) to send home vpon euery occasion of<g ref="char:EOLhyphen"/>fring it selfe; send home thy prayers, thy daily desires, thy thoughts, thy meditations, thy prayses, thy sacrifices, thy loue tokens. And because some thing is to be done for thee at
+<pb n="103" facs="tcp:3158:64"/> home now in thine ab<g ref="char:EOLhyphen"/>sence, beseech Christ thy best friend, to set forward thy businesse there, and to looke to thine occasions, least all goe to wracke, by pre<g ref="char:EOLhyphen"/>paring a mansion for thee; by making inter<g ref="char:EOLhyphen"/>cession for thee; by sen<g ref="char:EOLhyphen"/>ding out his spirit for thy direction and com<g ref="char:EOLhyphen"/>fort, till thou returnest home vnto him, to ren<g ref="char:EOLhyphen"/>der vnto him, eternall prayses and thankes for such great favours, so freely conferred vpon thee.</p>
+               <p n="4">4. In this way be con<g ref="char:EOLhyphen"/>tent
+<pb n="104" facs="tcp:3158:65"/> if sometimes thou art weary, as one that goeth vp a st<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epe hill, if sometimes thou sighest and pantest in thy pain<g ref="char:EOLhyphen"/>full travell, through a foule way, and stormie weather; Let the tedi<g ref="char:EOLhyphen"/>ousnesse of the way make thee desire the wayes end, and to covet to be at home with Christ, which is best of all. But be sure in thy wearinesse thou sit not downe; much lesse looke backe with <hi>Lots</hi> wife; but <hi>presse hard for<g ref="char:EOLhyphen"/>ward</hi>
+                  <note place="margin">Phil. 3. 13.</note>
+                  <hi>to the marke,</hi> as one resolved to goe through
+<pb n="105" facs="tcp:3158:65"/> and persevere to the end; considering that after an hill commeth a valley; after foule way commeth fayre; and af<g ref="char:EOLhyphen"/>ter a storme a faire shine and gleame againe; <hi>hea<g ref="char:EOLhyphen"/>vinesse</hi>
+                  <note place="margin">Psal. 30.</note>
+                  <hi>may endure for a night, but ioy returneth in the morning.</hi> If wee haue <hi>need of patience</hi> for <note place="margin">Heb. 10. 3<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> a while, it is but to <hi>enioy the promises.</hi> If th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>suffe<g ref="char:EOLhyphen"/>rings</hi>
+                  <note place="margin">2 Cor. 1.</note>
+                  <hi>for Christ</hi> encrease, so shall also <hi>the comforts.</hi> And <hi>many are the trou<g ref="char:EOLhyphen"/>bles</hi>
+                  <note place="margin">Psal. 34.</note>
+                  <hi>of the righteous, but the Lord delivereth them out of all.</hi> The end which crowneth all thy
+<pb n="106" facs="tcp:3158:66"/> labour is worth all thy paines and patience.</p>
+               <p>
+                  <hi>Vse</hi> 5. Seeing all the Saints are strangers here as all our Fathers haue beene; Here are sundry grounds of comfort a<g ref="char:EOLhyphen"/>rising hence to belee<g ref="char:EOLhyphen"/>vers.</p>
+               <p n="1">1. Against the dis<g ref="char:EOLhyphen"/>graces <milestone type="tcpmilestone" unit="unspecified" n="I"/> and open iniu<g ref="char:EOLhyphen"/>ries they perpetually su<g ref="char:EOLhyphen"/>staine from the hands of evill men, and the small favour they find in the world; for what can they looke for other, being strangers, but strange v<g ref="char:EOLhyphen"/>sages and entertaine<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:3158:66"/> from the world? if they were of the world the world would loue them as her owne. Eue<g ref="char:EOLhyphen"/>ry Corporation prefer<g ref="char:EOLhyphen"/>reth into offices her owne free men, and in<g ref="char:EOLhyphen"/>habitants; and it were folly for a stranger pas<g ref="char:EOLhyphen"/>sing but through, to ex<g ref="char:EOLhyphen"/>pect those places, and preferments; he must rather cast to endure wronges, where his worth is vnknowne, and expect no remedy or re<g ref="char:EOLhyphen"/>lease at any of their hands; but herein com<g ref="char:EOLhyphen"/>fort himselfe that he hath credit, and can
+<pb n="108" facs="tcp:3158:67"/> haue right in his owne countrie, and if he were once at home, he should put vp no such wrongs and indignities.</p>
+               <p n="2">2. Against the trou<g ref="char:EOLhyphen"/>bles <milestone type="tcpmilestone" unit="unspecified" n="II"/> and oppressions of the Saints of God in these heavie times of warres and bloudie per<g ref="char:EOLhyphen"/>secutions; in which he Captaines of Antichrist chase the godly from their seates, houses, e<g ref="char:EOLhyphen"/>states, and countries; not suffering the Done of Christ a rest for the sole of her foote. Here is a ground of com<g ref="char:EOLhyphen"/>fort.</p>
+               <p n="1">
+                  <pb n="109" facs="tcp:3158:67"/> 1. That all the surie of the enemies, exiling and banishing the god<g ref="char:EOLhyphen"/>ly, can but make them <hi>strangers,</hi> and so were they before, wheresoe<g ref="char:EOLhyphen"/>ver they dwelt in any place of the earth. It is no great addition of miserie to banish him, that was in banishment before; or to driue a man out of one strange place into another: He that is alreadie a stran<g ref="char:EOLhyphen"/>ger vpon earth in af<g ref="char:EOLhyphen"/>fection, can easily be<g ref="char:EOLhyphen"/>come actually a stran<g ref="char:EOLhyphen"/>ger, if God call him vn<g ref="char:EOLhyphen"/>to it.</p>
+               <p n="2">
+                  <pb n="10" facs="tcp:3158:68"/> 2. When the enemies haue exercised all their rage, they cannot banish them out of GODS Countrey; but they are <hi>strangers before God,</hi> who is equally present with them in one corner of the earth as well as in another, to protect them, to provide for them, to pittie them▪ and guide them home to their owne Coun<g ref="char:EOLhyphen"/>trey.</p>
+               <p n="3">3 Although the ene<g ref="char:EOLhyphen"/>mies would be endlesse in their rage against the Saints; and were they to liue ever, they would e<g ref="char:EOLhyphen"/>ver
+<pb n="11" facs="tcp:3158:68"/> nourish and exercise an immortall wrath a<g ref="char:EOLhyphen"/>gainst the people of God, yet can they not inflict so much mis<g ref="char:EOLhyphen"/>chiefe on them as they desire; For besides that themselues are mortall, and besides the justice of God breaking quick<g ref="char:EOLhyphen"/>ly to peeces the rods of his wrath, and casting them into the fire; the godly themselues are but strangers here, and of short continuance; so as, suppose their suffe<g ref="char:EOLhyphen"/>rings be sharpe, yet they be but short. The rods of the wicked shall
+<pb n="112" facs="tcp:3158:69"/> not alwayes lye vpon the lot of the righteous (as they desire they should) seeing the god<g ref="char:EOLhyphen"/>ly are strangers as well in time as in place, and themselues not conti<g ref="char:EOLhyphen"/>nuing, their miserie cannot bee continu<g ref="char:EOLhyphen"/>all.</p>
+               <p n="3">3. In the many los<g ref="char:EOLhyphen"/>ses <milestone type="tcpmilestone" unit="unspecified" n="III"/> of these worldly and corruptible things which take them to their wings, and flie from one maister to an<g ref="char:EOLhyphen"/>other, by meanes of warre, mortalitie, and many casualties a Chri<g ref="char:EOLhyphen"/>stian hath comfort, that
+<pb n="113" facs="tcp:3158:69"/> he being a stranger here, he hath no great estate to loose; some mooveables, such as he carryeth along with him in his iourney he may loose by the way, but his estate and inhe<g ref="char:EOLhyphen"/>ritance is safe enough at home. Nay, in that great and small destruc<g ref="char:EOLhyphen"/>tion of the whole world by the dreadfull fire of the last day; <hi>When the</hi>
+                  <note place="margin">2 Pet. 3. 10.</note>
+                  <hi>heavens shall passe away with a noyse, and the ele<g ref="char:EOLhyphen"/>ments shall melt with heat, and the earth, with the workes that are therein shall be burnt vp.</hi> When
+<pb n="114" facs="tcp:3158:70"/> all other men shall bee loosers of all their whole estates, onely the godly (because they are strangers here) they shall escape all these things, and be no loo<g ref="char:EOLhyphen"/>sers at all.</p>
+               <p>If some whole Cittie should be consumed by fire, when the whole multitude of Inhabi<g ref="char:EOLhyphen"/>tants sustaine losse, and beggery, by that Acci<g ref="char:EOLhyphen"/>dent, a stranger that is but passing through the Cittie, and hath his e<g ref="char:EOLhyphen"/>state and dwelling else<g ref="char:EOLhyphen"/>where, he looseth no<g ref="char:EOLhyphen"/>thing at all; So the
+<pb n="115" facs="tcp:3158:70"/> godly shall be glad in that day, that they haue no stocke nor por<g ref="char:EOLhyphen"/>tion with them, who had no other portion but in this life.</p>
+               <p n="4">4. As his estate is safe, <milestone type="tcpmilestone" unit="unspecified" n="IV"/> so likewise is the person of the godly Pilgrim; For he not being of the world, he shall not pe<g ref="char:EOLhyphen"/>rish with the world. It was happie for <hi>Lot</hi>
+                  <note place="margin">Gen. 19. 9.</note> that he was a stranger, and scorned as a stran<g ref="char:EOLhyphen"/>ger by the <hi>Sodomites;</hi> for when all they were scalded with a shower of fire and Brimstone,
+<pb n="116" facs="tcp:3158:71"/> the Lord being merci<g ref="char:EOLhyphen"/>full vnto him, his per<g ref="char:EOLhyphen"/>son was in safetie. Se<g ref="char:EOLhyphen"/>ver thy selfe from the condition of sinnefull men; estrange thy selfe from their courses; walke as one delivered from this evill world, if not yet in respect of place, yet in respect of new qualities; thou shalt haue Gods pro<g ref="char:EOLhyphen"/>tection, and see the sal<g ref="char:EOLhyphen"/>vation of the LORD, when all the wicked In<g ref="char:EOLhyphen"/>habitants of the earth shall call <hi>for the hills to cover them,</hi> and <hi>the mountaines to fall vpon</hi>
+                  <pb n="117" facs="tcp:3158:71"/>
+                  <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hem,</hi> to hide them <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rom the wrath of the Lambe; <hi>for the great</hi>
+                  <note place="margin">Rev. 6. 16. 17.</note>
+                  <hi>day of his wrath is come, and who can stand?</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb n="116" facs="tcp:3158:72"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="117" facs="tcp:3158:72"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="116" facs="tcp:3158:73"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="117" facs="tcp:3158:73"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3158:74"/>
+               <pb n="121" facs="tcp:3158:74"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3158:75"/>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="121" facs="tcp:3158:75"/>
+            <head>A PROFITABLE MEMORIALL of the Conversion, <hi>Life,</hi> and <hi>Death of</hi> M<seg rend="sup">ris</seg> MARY GVNTER, set vp as a <hi>Monument</hi> to be looked vpon, both by <hi>Protestants</hi> and <hi>Papists.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Could not better spēd some part of the dayes of my
+<pb n="122" facs="tcp:3158:76"/> mourning for the losse of my deare wife, then in set<g ref="char:EOLhyphen"/>ting downe briefely some Passages of her course and Pil<g ref="char:EOLhyphen"/>grimage, that the happie memory of her graces and ver<g ref="char:EOLhyphen"/>tuous life might e<g ref="char:EOLunhyphen"/>ver liue with mee, both for incitation, and imitation. And if my desires were strōg to make them more publicke for
+<pb n="123" facs="tcp:3158:76"/> the directiō of some others, I hope it will rather be charitably ascribed to the wor<g ref="char:EOLhyphen"/>king and stirring of my affection to<g ref="char:EOLhyphen"/>wardes her Ashes, then to any vanitie of mind, or osten<g ref="char:EOLhyphen"/>tatiō in her. Besides, I am sure that if a <hi>Protestant</hi> had beene seduced from vs (as she was called out of <hi>Popery)</hi> and had li<g ref="char:EOLhyphen"/>ved, and dyed so ze<g ref="char:EOLhyphen"/>lous
+<pb n="12" facs="tcp:3158:77"/> in that Religi<g ref="char:EOLhyphen"/>on, as shee did in this, the Adversaries would haue made their advantage of it, and published the same as one of the miracles of their Church. And I see not but it may be as lawfull for me, as it may proue profita<g ref="char:EOLhyphen"/>ble for others, to set downe the knowne Truth concerning her, that as she was
+<pb n="125" facs="tcp:3158:77"/> in her life, so also she may happily conti<g ref="char:EOLhyphen"/>nue now after her death, an happie in<g ref="char:EOLhyphen"/>strument of Gods glory in earth, as I am assured shee is a vessell before him filled with his glory of heaven.</p>
+            <div type="part">
+               <p>THIS gracious <note place="margin">Her birth.</note> Woman was for birth a gen<g ref="char:EOLunhyphen"/>tle woman descen<g ref="char:EOLhyphen"/>ded, but of Popish
+<pb n="126" facs="tcp:3158:78"/> Parents, who dying in her infancie, shee was committed vn<g ref="char:EOLhyphen"/>to the tuition of an old Lady, honoura<g ref="char:EOLhyphen"/>ble <note place="margin">Popish e<g ref="char:EOLhyphen"/>ducation.</note> for her place, but a strong Papist, who nousled, and misled this Orphane in Popery, till shee came about foure<g ref="char:EOLhyphen"/>teene yeares of age; at which time this Lady dyed. Vpon which occasion, God (having a mer<g ref="char:EOLhyphen"/>cifull
+<pb n="127" facs="tcp:3158:78"/> purpose to<g ref="char:EOLhyphen"/>wards her Conver<g ref="char:EOLhyphen"/>sion) by his good providence brought her to the service of that Religious and truely honourable Lady, the Coun<g ref="char:EOLhyphen"/>tesse of <hi>Leicester,</hi> who enterteyned her with more then or<g ref="char:EOLhyphen"/>dinary respect, both because of her yong yeares, as also be<g ref="char:EOLhyphen"/>cause shee was ally<g ref="char:EOLhyphen"/>ed to Sir <hi>Christopher</hi>
+                  <pb n="128" facs="tcp:3158:79"/>
+                  <hi>Blunt,</hi> then husband to the Honourable Countesse; at whose request his Lady had taken her into her care.</p>
+               <p>To this honoura<g ref="char:EOLhyphen"/>ble Countesse shee came a most zelous Papist, and resolute, as soone as possibly shee could appre<g ref="char:EOLhyphen"/>hend a fit opportu<g ref="char:EOLhyphen"/>nitie, to convey her selfe beyond the Seas, and become a
+<pb n="129" facs="tcp:3158:79"/> Nunne; for shee then thought that that was the surest and likeliest way to get Heaven: which as she had an earnest desire to attaine, so would she take the nearest way which she thought would bring her thither. But she could not so closely carry her se<g ref="char:EOLhyphen"/>cret devotions and intentions, but that by the carefull eye
+<pb n="130" facs="tcp:3158:80"/> of her Honourable Lady, they were <note place="margin">This religi<g ref="char:EOLhyphen"/>ous care of the honou<g ref="char:EOLhyphen"/>rable <hi>Coun<g ref="char:EOLhyphen"/>tesse,</hi> as shee did all her life thanke<g ref="char:EOLhyphen"/>fully ac<g ref="char:EOLhyphen"/>knowledge it, so is it ve<g ref="char:EOLhyphen"/>ry observa<g ref="char:EOLhyphen"/>ble both for the high commen<g ref="char:EOLhyphen"/>dation of her honor, and for the imitation of others of her honou<g ref="char:EOLhyphen"/>rable ranke.</note> soone discovered, and not sooner dis<g ref="char:EOLhyphen"/>covered then wise<g ref="char:EOLhyphen"/>ly prevented; for presently her Lady tooke from her all her Popish Bookes, and Beads, Images, and all such trum<g ref="char:EOLhyphen"/>pery, and set a nar<g ref="char:EOLhyphen"/>row watch over her, that she might be kept from her Popish Prayers, and
+<pb n="131" facs="tcp:3158:80"/> not absent her selfe from the daily pray<g ref="char:EOLhyphen"/>ers of the Familie, which were religi<g ref="char:EOLhyphen"/>ously observed: fur<g ref="char:EOLhyphen"/>ther, requiring her to reade those Pray<g ref="char:EOLhyphen"/>ers that her Honor daily vsed to haue in her private cham<g ref="char:EOLhyphen"/>ber with her wo<g ref="char:EOLhyphen"/>men.</p>
+               <p>Her Ladiship also carefully prevented her from her Popish company and coun<g ref="char:EOLhyphen"/>sell
+<pb n="132" facs="tcp:3158:81"/> by word or wri<g ref="char:EOLhyphen"/>ting, for neither might shee write nor receiue any let<g ref="char:EOLhyphen"/>ter without the view and consent of her Honor.</p>
+               <p>She also constrai<g ref="char:EOLhyphen"/>ned her to be coun<g ref="char:EOLhyphen"/>table for the Ser<g ref="char:EOLhyphen"/>mons which shee <gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>rd in the house, which were con<g ref="char:EOLhyphen"/>stan<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y two every Sabboth day, (for the encrease of the
+<pb n="133" facs="tcp:3158:81"/> sound knowledge of God, which is the onely Hammer of Popery). And here<g ref="char:EOLhyphen"/>by she in short time obtained great abi<g ref="char:EOLhyphen"/>litie to communi<g ref="char:EOLhyphen"/>cate to others the substance of those Sermons which she heard, the rather because it was con<g ref="char:EOLhyphen"/>stantly observed by all the women in that honourable Fa<g ref="char:EOLhyphen"/>milie, to come to<g ref="char:EOLhyphen"/>gether
+<pb n="134" facs="tcp:3158:82"/> after the last Sermon, and make repetition of both.</p>
+               <p>And this she did as yet for feare, but still with this reser<g ref="char:EOLhyphen"/>vation, that shee would keepe her heart for Popery; and trusted that God would be mer<g ref="char:EOLhyphen"/>cifull vnto her (as <hi>Naaman)</hi> in this which she did one<g ref="char:EOLhyphen"/>ly through feare &amp; constraint. But God
+<pb n="135" facs="tcp:3158:82"/> (who in his owne time worketh in his owne meanes) be<g ref="char:EOLhyphen"/>gan to worke in her first a staggering in her old way; For, when she saw the holy conversation of that Reverend Preacher, M<seg rend="sup">r</seg>
+                  <hi>I. W.</hi> who was then <hi>Chap<g ref="char:EOLhyphen"/>lin</hi> to the Countesse; shee began to per<g ref="char:EOLhyphen"/>swade her selfe, that surely this mans godlines must needs
+<pb n="136" facs="tcp:3158:83"/> bring him to Hea<g ref="char:EOLhyphen"/>ven. And then the reverend respect of the man made her begin to giue some better eare to his Doctrine, to exa<g ref="char:EOLhyphen"/>mine his proofes, and to reverence his Ministry; where<g ref="char:EOLhyphen"/>by in short time, it pleased God that she was wonne to be<g ref="char:EOLhyphen"/>leeue <note place="margin">Her new birth.</note> the Truth, and renounce her for<g ref="char:EOLhyphen"/>mer superstition &amp;
+<pb n="137" facs="tcp:3158:83"/> ignorance. And, as it is the property of a true Convert, be<g ref="char:EOLhyphen"/>ing <note place="margin">Iohn 1. 45.</note> converted her selfe shee endeuou<g ref="char:EOLhyphen"/>red the conversion of others and was a great helpe and fur<g ref="char:EOLhyphen"/>therance to the pub<g ref="char:EOLhyphen"/>lique Ministery that way; For this was a thing which that honourable Fami<g ref="char:EOLhyphen"/>lie tooke speciall knowledge of; and there were many
+<pb n="138" facs="tcp:3158:84"/> that had great cause to blesse God for her in that respect.</p>
+               <p>Now presently Satan (that <hi>Dragon</hi>
+                  <note place="margin">Rev. 12.</note> that watcheth to devoure every man<g ref="char:EOLhyphen"/>childe which shall be borne vnto God) begins to rage, and reach at her with strong and violent temptations: and first he terrified her <note place="margin">Her long and strong temptati<g ref="char:EOLhyphen"/>ons.</note> in that she had sin<g ref="char:EOLhyphen"/>ned the sin against
+<pb n="139" facs="tcp:3158:84"/> the holy Ghost; for she had played the deepe dissembler; and being in heart a Papist, yet joyned with the Protestāts whom she held for Heretickes, and all this against her knowledge &amp; con<g ref="char:EOLhyphen"/>sciēce, and so fierce<g ref="char:EOLhyphen"/>ly and incessantly he followed this temp<g ref="char:EOLhyphen"/>tation, as that she was perswaded it was impossible that
+<pb n="140" facs="tcp:3158:85"/> ever this sin should, or could be pardo<g ref="char:EOLhyphen"/>ned. And this temp<g ref="char:EOLhyphen"/>tation was pointed and sharpned with that dreadfull and foule suggestion of selfe murder, as if the remedy of the sin against the holy Ghost, were to de<g ref="char:EOLhyphen"/>stroy ones selfe. While she was thus long tossed &amp; tum<g ref="char:EOLhyphen"/>bled in these warres and billowes of Sa<g ref="char:EOLhyphen"/>tanicall
+<pb n="141" facs="tcp:3158:85"/> suggestions, wherein she was so low cast &amp; deiected (still concealing her griefe) as she almost despayred of reco<g ref="char:EOLhyphen"/>very; It pleased God to direct that Reve<g ref="char:EOLhyphen"/>rend Preacher (who was her Father in Christ, and whom shee ever after em<g ref="char:EOLhyphen"/>braced with the most entyre loue of the most na<g ref="char:EOLhyphen"/>turall Childe) to
+<pb n="142" facs="tcp:3158:86"/> entreat of this sin; and to shew what it was, &amp; by whom, and in what maner it was committed. To which Doctrine she diligently hark<g ref="char:EOLhyphen"/>ning, and by exami<g ref="char:EOLhyphen"/>nation of it, and her selfe, finding that she had not so sin<g ref="char:EOLhyphen"/>ned after illumina<g ref="char:EOLhyphen"/>tion, nor with ob<g ref="char:EOLhyphen"/>stinate malice a<g ref="char:EOLhyphen"/>gainst God or his truth (which when
+<pb n="143" facs="tcp:3158:86"/> she was most super<g ref="char:EOLhyphen"/>stitiously devoted, she desired to finde out) it pleased God to quiet her minde for that; and so led her over that temp<g ref="char:EOLhyphen"/>tation.</p>
+               <p>But Satan that de<g ref="char:EOLhyphen"/>parted from our head, <hi>Iesus Christ,</hi> onely for a season, was not long away from the molestati<g ref="char:EOLhyphen"/>on of this his mem<g ref="char:EOLhyphen"/>ber, but returned
+<pb n="144" facs="tcp:3158:87"/> and brought seaven worse spirits (were it possible) then be<g ref="char:EOLhyphen"/>fore, and now his name may be <hi>Legion;</hi> for now he would confound and op<g ref="char:EOLhyphen"/>presse her with mul<g ref="char:EOLhyphen"/>titudes of blasphe<g ref="char:EOLhyphen"/>mous thoughts, and doubts. Now must she beleeue there is no God: That the Scriptures are not his word, but a Pol<g ref="char:EOLhyphen"/>licie: or if it were
+<pb n="145" facs="tcp:3158:87"/> his word, who must interpret it, or how could she a silly wo<g ref="char:EOLhyphen"/>man get the vnder<g ref="char:EOLhyphen"/>standing of such deepe, mysteries as are contained in the same. Besides, as she was of mind that she was gotten out of one errour, so she knew nothing but that she was misled into another; for, how could she be sure that this was
+<pb n="146" facs="tcp:3158:88"/> the truth which she now professed, see<g ref="char:EOLhyphen"/>ing there are as ma<g ref="char:EOLhyphen"/>ny or more learned men of the one opi<g ref="char:EOLhyphen"/>nion as of the other, &amp; all of them main<g ref="char:EOLhyphen"/>taine their opinions by the Scriptures. Thus was she vexe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and exercised wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Armies of roavin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and vnsetled con<g ref="char:EOLhyphen"/>ceits for fiue or six<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> yeares together, til<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God (whō she ofte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="147" facs="tcp:3158:88"/> sollicited for directi<g ref="char:EOLhyphen"/>on and assistance in the Cōbat) brought her to this resoluti<g ref="char:EOLhyphen"/>on, that she would hold these conclusi<g ref="char:EOLhyphen"/>ons, whatsoever dis<g ref="char:EOLhyphen"/>putes Satan might weary her withall. That there was not onely a God in him<g ref="char:EOLhyphen"/>selfe, but a God that was her God: and whatsoever opini<g ref="char:EOLhyphen"/>ons there were in the world, that
+<pb n="148" facs="tcp:3158:89"/> there was but one Truth, and that was to be learned out of the Scriptures; and though there were much in the Bible which she did not vnderstand, yet she was perswaded, that if she would diligently reade and search the Scrip<g ref="char:EOLhyphen"/>tures, with earnest Prayer to God for a good vnderstāding in them, she should
+<pb n="149" facs="tcp:3158:89"/> attain thence a mea<g ref="char:EOLhyphen"/>sure of knowledge, sufficient to bring her to heaven; and holding strongly these groundes, she found the tempta<g ref="char:EOLhyphen"/>tions wast away by degrees, and her selfe daily more strong<g ref="char:EOLhyphen"/>ly setled vpon the foundation.</p>
+               <p>Neither was she onely by the grace of God a Conque<g ref="char:EOLhyphen"/>rour in these temp<g ref="char:EOLhyphen"/>tations,
+<pb n="150" facs="tcp:3158:90"/> but I may say with the Apo<g ref="char:EOLhyphen"/>stle, in a maner more then a Conquerour by them; for, God (who bringeth light out of darknes) made these temptations a sweet seasoning of her whole life. By occasion of which, she tyed her selfe to a strict course of godlinesse, and a constant practise of Christian Duties,
+<pb n="151" facs="tcp:3158:90"/> which she religious<g ref="char:EOLhyphen"/>ly observed, even till her dying day.</p>
+               <p>For first, that she <note place="margin">Her religi<g ref="char:EOLhyphen"/>ous life.</note> might bee stabli<g ref="char:EOLhyphen"/>shed in the Truth, and confirmed a<g ref="char:EOLhyphen"/>gainst those former waverings &amp; weak<g ref="char:EOLhyphen"/>nesses, she vowed that God assisting her, she would eve<g ref="char:EOLhyphen"/>ry yeare read over the whole Bible in <note place="margin">Extraordi<g ref="char:EOLhyphen"/>nary dili<g ref="char:EOLhyphen"/>gence in the Scrip<g ref="char:EOLhyphen"/>tures.</note> an ordinary course, which course she
+<pb n="152" facs="tcp:3158:91"/> constantly observed for the space of fif<g ref="char:EOLhyphen"/>teene yeares toge<g ref="char:EOLhyphen"/>ther, beginning her taske vpon her birth day, and reading e<g ref="char:EOLhyphen"/>very day so many Chapters as to bring it about iust with the yeare. By which exercise she gayned a great encrease of knowledge, and no lesse strengthening of her faith; for she did not read careles<g ref="char:EOLhyphen"/>ly
+<pb n="153" facs="tcp:3158:91"/> or negligētly, but alwaies kept a note of what places she did not vnderstand, and would still be enquiring the mea<g ref="char:EOLhyphen"/>ning of them, as she met either with Mi<g ref="char:EOLhyphen"/>nisters, or such as she thought were able to enforme her in the same. And her custome was ever before she o<g ref="char:EOLhyphen"/>pened her Bible, to send vp a short pray<g ref="char:EOLhyphen"/>er
+<pb n="154" facs="tcp:3158:92"/> vnto God, for the opēing of her blind eyes, to the vnder<g ref="char:EOLhyphen"/>standing of those sa<g ref="char:EOLhyphen"/>cred mysteries, that so they might be as a Lanterne to guide her feet in the waies of holines, vntill she had attained her de<g ref="char:EOLhyphen"/>sired happinesse.</p>
+               <p>And not herewith contented; as a good <hi>Mary</hi> she pondered the word of God in her heart, for by her
+<pb n="155" facs="tcp:3158:92"/> great industry in the Scriptures, she had gotten by heart ma<g ref="char:EOLhyphen"/>ny select Chapters, and speciall <hi>Psalmes;</hi> and of every Booke of the Scripture one choyse verse: all w<seg rend="sup">ch</seg> she weekly repeated in an order which she propounded to her selfe; and being asked why she was so laborious in get<g ref="char:EOLhyphen"/>ting and reteyning those Scriptures in
+<pb n="156" facs="tcp:3158:93"/> memory? Her an<g ref="char:EOLhyphen"/>swer was, that she knew not what dayes of tryall, or persecution might come, wherein she might be deprived of her Bible, and o<g ref="char:EOLhyphen"/>ther good books &amp; helpes; but so much of the Scriptures as she could get into her heart, she knew no Tyrants or Ene<g ref="char:EOLhyphen"/>mies could bereaue or rob her of. (God
+<pb n="157" facs="tcp:3158:93"/> make thee that rea<g ref="char:EOLhyphen"/>dest, &amp; me that wri<g ref="char:EOLhyphen"/>teth this, so Christi<g ref="char:EOLhyphen"/>anly provident, as in these dayes of plen<g ref="char:EOLhyphen"/>tie to lay vp some<g ref="char:EOLhyphen"/>what for the daies of straitnes &amp; famine). Secondly, from that <note place="margin">Her instāce in her pri<g ref="char:EOLhyphen"/>vate Pray<g ref="char:EOLhyphen"/>ers.</note> time of her trouble she resolved vpō <hi>Da<g ref="char:EOLunhyphen"/>niels</hi> practise, wherin she was also constāt, namely, besides the family duties, which were twise a day
+<pb n="158" facs="tcp:3158:94"/> performed by the <hi>Chaplin</hi> in that Reli<g ref="char:EOLhyphen"/>gious house in w<seg rend="sup">ch</seg> she lived till with<g ref="char:EOLhyphen"/>in one yeare of her death; And besides the private Prayers that she daily read in her Ladies Bed<g ref="char:EOLhyphen"/>chamber, she was thrice every day on her knees before God in secret, like a true worshipper whose delight was to be in Gods pre<g ref="char:EOLhyphen"/>sence.
+<pb n="159" facs="tcp:3158:94"/> By meanes of which daily exer<g ref="char:EOLhyphen"/>cise, besides all other comfortable fruits, she attained a sin<g ref="char:EOLhyphen"/>gular sweet gift in prayer, whereby she could both strongly wrastle and happily prevaile with God, whose grace suffreth himselfe to be over<g ref="char:EOLhyphen"/>come wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the pray<g ref="char:EOLhyphen"/>ers of his weake ser<g ref="char:EOLhyphen"/>vants.</p>
+               <p>And because she
+<pb n="160" facs="tcp:3158:95"/> knew that religious <note place="margin">Her fre<g ref="char:EOLhyphen"/>quent fa<g ref="char:EOLhyphen"/>sting.</note> fasting is the whet<g ref="char:EOLhyphen"/>stone of Prayer, she tyed her selfe to set apart six dayes in e<g ref="char:EOLhyphen"/>very yeare, wherein she was extraordi<g ref="char:EOLhyphen"/>narily humbled in fasting and prayer, for her owne sins, and the sins of the times. At all which times she was in speciall manner ear<g ref="char:EOLhyphen"/>nest with the Lord, that he would be
+<pb n="161" facs="tcp:3158:95"/> pleased further to reveale vnto her his whole Truth, need<g ref="char:EOLhyphen"/>full for her salvatiō, &amp; keepe her constāt in the obedience therof vnto the end.</p>
+               <p>And because she knew that the right and worthy Recei<g ref="char:EOLhyphen"/>ving of the Sacra<g ref="char:EOLhyphen"/>ments affordeth a Christian speciall strēgth, &amp; much sta<g ref="char:EOLhyphen"/>bilitie in the course of godlines: as she
+<pb n="162" facs="tcp:3158:96"/> diligētly apprehen<g ref="char:EOLhyphen"/>ded that comfort when she could cō<g ref="char:EOLhyphen"/>veniently receiue that Sacrament; so for many yeares she had laid a band vpō her selfe, never to re<g ref="char:EOLhyphen"/>ceiue it, but the day before to fit, and ex<g ref="char:EOLhyphen"/>amine her selfe seri<g ref="char:EOLhyphen"/>ously, deeply hum<g ref="char:EOLhyphen"/>bling her selfe be<g ref="char:EOLhyphen"/>fore the Lord in fa<g ref="char:EOLhyphen"/>sting and prayer all the day long.</p>
+               <pb n="163" facs="tcp:3158:96"/>
+               <p> Thirdly, the trou<g ref="char:EOLhyphen"/>ble <note place="margin">The ten<g ref="char:EOLhyphen"/>dernesse of her consci<g ref="char:EOLhyphen"/>ence.</note> of her Consci<g ref="char:EOLhyphen"/>ence, made her ever of a very tender cō<g ref="char:EOLhyphen"/>science: fearefull she was of offending God and her owne Conscience; &amp; wat<g ref="char:EOLhyphen"/>ched her selfe nar<g ref="char:EOLhyphen"/>rowly; and to keepe her selfe in awe; for the space of 5 yeares before her death, she kept a Catalogue of her daily slips, and set downe euen the
+<pb n="164" facs="tcp:3158:97"/> naughtie thoughts which she observed in her selfe, that one day in every weeke she might extraor<g ref="char:EOLhyphen"/>dinarily humble her selfe for all the fay<g ref="char:EOLhyphen"/>lings of that weeke, and this with such moderat abstinence as might best fit her weake body to hū<g ref="char:EOLhyphen"/>ble &amp; servent prayer. And all these private religious duties, she performed so secret<g ref="char:EOLhyphen"/>ly,
+<pb n="165" facs="tcp:3158:97"/> that none but her bosom friend knew of their performāce. As she was thus fear<g ref="char:EOLhyphen"/>ful of sins present, &amp; to come, so her con<g ref="char:EOLhyphen"/>science was tender in respect of sins past as may appeare by this memorable in<g ref="char:EOLhyphen"/>stance. Whilest she was a child bred vp in the chāber of that old <hi>Lady,</hi> she was en<g ref="char:EOLhyphen"/>tised by leud servāts who fed her with
+<pb n="166" facs="tcp:3158:98"/> figs, and other such toyes, fit to please children withall, to steale money out of the Ladies Cabinet which often stood open in her Cham<g ref="char:EOLhyphen"/>ber, and which they knew she had the fittest opportunitie to doe of all other: whervnto her chil<g ref="char:EOLhyphen"/>dishnes giuing way she found it not mis<g ref="char:EOLhyphen"/>sed, &amp; so continued it for seaven yeares
+<pb n="167" facs="tcp:3158:98"/> or ther abouts with<g ref="char:EOLhyphen"/>out any great check of Conscience. But when the light of God came in and made a privy search in the heart; and made her able to take her selfe with the fact; now she was ashamed and confounded in her selfe, and her stirred conscience gaue her no rest, nor could she conceiue any
+<pb n="168" facs="tcp:3158:99"/> hope of quiet, be<g ref="char:EOLhyphen"/>cause she saw, she had done that w<seg rend="sup">ch</seg> she could no way vndoe. If she looked at the sum of mo<g ref="char:EOLhyphen"/>ney taken &amp; given away, she conceived that by continuing in that course seven yeares together, she might haue wron<g ref="char:EOLhyphen"/>ged that <hi>Lady</hi> thirtie or fortie pound. If she thought of resti<g ref="char:EOLhyphen"/>tution, she was no
+<pb n="169" facs="tcp:3158:99"/> way able. Thus she carried the burden of this sinne a long time, easing it aswell as she could with a resolute purpose, if ever God pleased to make her able, to make restitution to the heires of the de<g ref="char:EOLhyphen"/>ceased <hi>Lady.</hi> And ac<g ref="char:EOLhyphen"/>cordingly so she did. For when that ho<g ref="char:EOLhyphen"/>nourable, and boun<g ref="char:EOLhyphen"/>tifull <hi>Lady,</hi> whom she so long served,
+<pb n="170" facs="tcp:3158:100"/> gaue her a large por<g ref="char:EOLhyphen"/>tion when she be<g ref="char:EOLhyphen"/>stowed her in mar<g ref="char:EOLhyphen"/>riage, she forth with made choyse of a Reverend Minister, whom she employ<g ref="char:EOLhyphen"/>ed therein (enioy<g ref="char:EOLhyphen"/>ning him secrecie) and because shee would be sure to make full restituti<g ref="char:EOLhyphen"/>on, she delivered him 60. pounds, to tender vnto this La<g ref="char:EOLhyphen"/>dies heire, as from a
+<pb n="171" facs="tcp:3158:100"/> conceiled servant of the Ladies, who had vniustly taken it a<g ref="char:EOLhyphen"/>way from her. And when the Gentle<g ref="char:EOLhyphen"/>man returned ten pounds of it backe againe, such was the tendernesse of her Conscience, that she would receiue non of it to her owne vse; but gaue it a<g ref="char:EOLhyphen"/>way to poore and pious persons and vses. And this chil<g ref="char:EOLhyphen"/>dish
+<pb n="172" facs="tcp:3158:101"/> errour God tur<g ref="char:EOLhyphen"/>ned to her good; for in all the 22. yeares of her service vnto that honourable La<g ref="char:EOLhyphen"/>dy, she never durst make vse of any thing that was vn<g ref="char:EOLhyphen"/>der her charge, were it small or great but set it downe in wri<g ref="char:EOLhyphen"/>ting, and once euery yeare did make it good, either in the kinde, or in some other thing which
+<pb n="173" facs="tcp:3158:101"/> she bought for her Ladiships vse.</p>
+               <p>Fourthly. The <note place="margin">Her chari<g ref="char:EOLhyphen"/>table dispo<g ref="char:EOLhyphen"/>sition.</note> sence of her owne weaknesses &amp; wants made her of a pitti<g ref="char:EOLhyphen"/>full, and charitable disposition towards the wants, and mi<g ref="char:EOLhyphen"/>series of others. She had ever a large heart to the poore, especially the godly poore; she never did see or heare of any that were in want,
+<pb n="174" facs="tcp:3158:102"/> but her heart did mourne if she had not to relieue them, neither was her hand shut, for she did yearely lay aside a portion of money to the vttermost of her ability (if not be<g ref="char:EOLhyphen"/>yond) for their re<g ref="char:EOLhyphen"/>leefe. Thus she lived holily, happily, and desiredly. Neyther could so gracious a life be shut vp but by an answerable,
+<pb n="175" facs="tcp:3158:102"/> that is, an happie death and dissoluti<g ref="char:EOLhyphen"/>on, whereof I will adde but a few words, and so leaue her to her happines till we meete happi<g ref="char:EOLhyphen"/>ly againe.</p>
+               <p>True it is that the <note place="margin">Her lin<g ref="char:EOLhyphen"/>gring sick<g ref="char:EOLhyphen"/>nes.</note> life of a Christian should be a conti<g ref="char:EOLhyphen"/>nuall meditation of death, as it is a con<g ref="char:EOLhyphen"/>tinuall motion to death: and such was the latter part espe<g ref="char:EOLhyphen"/>cially
+<pb n="176" facs="tcp:3158:103"/> of the life of this Christian wo<g ref="char:EOLhyphen"/>man, who was of weake &amp; sickly con<g ref="char:EOLhyphen"/>stitutiō many yeares before her death, which made her so much the more pre<g ref="char:EOLhyphen"/>pared for her last combate &amp; sicknes, which lasted tenne weeks; in all which time she certeynly apprehended &amp; ex<g ref="char:EOLhyphen"/>pected her dissoluti<g ref="char:EOLhyphen"/>on, it being the prin<g ref="char:EOLhyphen"/>cipall,
+<pb n="177" facs="tcp:3158:103"/> &amp; almost on<g ref="char:EOLhyphen"/>ly subiect of her dis<g ref="char:EOLhyphen"/>course, six moneths before it came. But thirtie dayes before her departure, she finding her paynes encreasing, &amp; grow<g ref="char:EOLhyphen"/>ing very sharpe and tedious, she spent an houres talke with me concerning her desire for the things of this life; and ha<g ref="char:EOLhyphen"/>ving sayd what she purposed, she thus
+<pb n="178" facs="tcp:3158:104"/> cōcluded her speech. Now sweet Heart, no more words be<g ref="char:EOLhyphen"/>tweene you and me of any worldly thing, onely let me earnestly request, &amp; charge you, that as you see my weak<g ref="char:EOLhyphen"/>nesse encrease, you will not fayle to as<g ref="char:EOLhyphen"/>sist me, &amp; call on me to follow the Lord wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h prayer and pa<g ref="char:EOLhyphen"/>tience; For, now I know, that Satan
+<pb n="179" facs="tcp:3158:104"/> will shew all his malice, because his time is but short a<g ref="char:EOLhyphen"/>gainst me, &amp; he will easily espy my weak<g ref="char:EOLhyphen"/>nes, and make his advantage of it, and therefore now espe<g ref="char:EOLhyphen"/>cially helpe me with your counsell, com<g ref="char:EOLhyphen"/>fort and prayers.</p>
+               <p>In all the time of her sicknes, our gra<g ref="char:EOLhyphen"/>cious God who as a fast friend standeth closest to his servāts
+<pb n="180" facs="tcp:3158:105"/> when they haue most need of him, shewed his gracious presence with her, as in all other com<g ref="char:EOLhyphen"/>fortable supplies an<g ref="char:EOLhyphen"/>swerable to that depth of distresse, so especially in hearing and answering her prayers, and desires of her heart.</p>
+               <p>There were foure <note place="margin"> Foure re<g ref="char:EOLhyphen"/>quests espe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ially shee made to God in her sicknesse, and heard <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n them all.</note> requests which we observed she especi<g ref="char:EOLhyphen"/>ally preferred vnto
+<pb n="181" facs="tcp:3158:105"/> God in her sicknes, and in none of them was denyed.</p>
+               <p>The first, that she <milestone type="tcpmilestone" unit="unspecified" n="I"/> might be armed w<seg rend="sup">th</seg> strength against Sa<g ref="char:EOLhyphen"/>tans assaults, which she expected would be fierce &amp; frequent; from whō she was mercifully freed; for onely three dayes before her death, she began to be de<g ref="char:EOLhyphen"/>iected in the sence of her owne dulnes,
+<pb n="182" facs="tcp:3158:106"/> and thereby began to call in question Gods loue towards her, &amp; the truth of Gods grace in her; for said she, were I the <hi>Lords,</hi> why shuld not I lift vp my head now, seing the time of my dissolution draweth on so nere? But these cōplaints cōtinued not aboue six houres, but she had much chearful<g ref="char:EOLhyphen"/>nes and comfort a<g ref="char:EOLhyphen"/>gaine,
+<pb n="183" facs="tcp:3158:106"/> which she ex<g ref="char:EOLhyphen"/>pressed, both in ear<g ref="char:EOLhyphen"/>nest and excellent prayers, (wherin her gift was more then ordinary for her sex) as also in many chearful thanks and prayses to God for his great mercy, for that he had now so chayned Satan at this time of her great weaknes, that having bin formerly molested, and daily
+<pb n="184" facs="tcp:3158:107"/> vexed with his as<g ref="char:EOLhyphen"/>saults, for the space of aboue six yeares together, now he would not suffer him to rest on her with his malice a<g ref="char:EOLhyphen"/>boue six houres</p>
+               <p>Her second request <milestone type="tcpmilestone" unit="unspecified" n="II"/> was, that the Lord would strengthen her with patience to endure all her paines to the end; &amp; herein she was as graciously heard as
+<pb n="185" facs="tcp:3158:107"/> in the former, for al<g ref="char:EOLhyphen"/>though she was full of paynes, &amp; assaul<g ref="char:EOLunhyphen"/>ted w<seg rend="sup">th</seg> many strong fits, in which no part was exempt from deadly paines, &amp; eve<g ref="char:EOLhyphen"/>ry of these fits of many houres conti<g ref="char:EOLhyphen"/>nuance, yet was she never heard to vtter any word of impa<g ref="char:EOLhyphen"/>tience in her selfe, or discontent to any that were about her, and much lesse
+<pb n="186" facs="tcp:3158:108"/> to charge God foo<g ref="char:EOLhyphen"/>lishly, in whose hands she was as the clay in the hand of the Potter.</p>
+               <p>Her third request <milestone type="tcpmilestone" unit="unspecified" n="III"/> to God was, that she might in all her sor<g ref="char:EOLhyphen"/>rowes be still sup<g ref="char:EOLhyphen"/>ported with some sence of his loue; and with the assu<g ref="char:EOLhyphen"/>rance of the pardon of all her sins. And that God was com<g ref="char:EOLhyphen"/>fortably found of
+<pb n="187" facs="tcp:3158:108"/> her in this request, was very apparant in her ioyfull expec<g ref="char:EOLhyphen"/>tation of death; the time whereof she truely fortold fiue daies before it cames and as this time ap<g ref="char:EOLhyphen"/>proched her joy en<g ref="char:EOLhyphen"/>creased; so as she was able <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o comfort her mournfull hus<g ref="char:EOLhyphen"/>band &amp; friends say<g ref="char:EOLhyphen"/>ing; Mourne not for me, but for your selues, for I shall ve<g ref="char:EOLhyphen"/>ry
+<pb n="188" facs="tcp:3158:109"/> shortly be more happy then the wi<g ref="char:EOLhyphen"/>shes of your hearts can make me, and therfore cease your mourning, and help me thither by your Prayers as fast as you can.</p>
+               <p>Her fourth request <milestone type="tcpmilestone" unit="unspecified" n="IV"/> was, that she might haue her memory continued vnto the last, that so by no i<g ref="char:EOLhyphen"/>dle, or light speech, she might dishonor
+<pb n="189" facs="tcp:3158:109"/> God, or bring scan<g ref="char:EOLhyphen"/>dall on her professi<g ref="char:EOLhyphen"/>on; for she sayd, If I through payne, or want of sleepe (w<seg rend="sup">ch</seg> she much wanted) should haue any foolish, or idle talke, I know what the speech of the world vseth to be; This is the end of all your precise folke, they die madde, or not themselues, &amp;c.</p>
+               <p>And as she prayed,
+<pb n="190" facs="tcp:3158:110"/> God gaue her her memory to the last gaspe, that she dyed praying; for a little <note place="margin">Her happie Departure.</note> before her Depar<g ref="char:EOLhyphen"/>ture, she called vs that were about her and hasted to Pray<g ref="char:EOLhyphen"/>er, for now (said she) I shall be gone pre<g ref="char:EOLhyphen"/>sētly: (which words wee then beleeued not) but Prayer be<g ref="char:EOLhyphen"/>ing ended, she sayd with more strength then she had spoken
+<pb n="191" facs="tcp:3158:110"/> any thing foure houres before; A<g ref="char:EOLhyphen"/>men, Amen. Into thy hands O Lord I commend my spirit. Lord Iesus haue mer<g ref="char:EOLhyphen"/>cy on me, &amp; receiue my soule. And thus with her last breath and words, her soule was carried into <hi>A<g ref="char:EOLhyphen"/>brahams</hi> bosome in the Heavens, to w<seg rend="sup">ch</seg> her eyes and hands were lifted. This was the life &amp; death
+<pb n="192" facs="tcp:3158:111"/> of this sweet Saint, as it was observed, and now faithfully witnessed by her mournfull husband, who wisheth both his life and lat<g ref="char:EOLhyphen"/>ter end like vnto hers.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:3158:111"/>
+         </div>
+      </body>
+   </text>
+</TEI>
